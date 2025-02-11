@@ -111,7 +111,6 @@ git clone https://github.com/247i/RocksDiamonds.git ஆட்டங்கள்/
 git clone https://github.com/247i/Ruby.git உரை/மாணிக்கம்
 git clone https://github.com/247i/Rufus.git துவக்கு/உருப்பசு
 git clone https://github.com/247i/SIT.git கருவிகள்/அகக்கருவிகள்
-git clone https://github.com/247i/SQL.git உரை/கட்டமைப்புவினவல்மொழி
 git clone https://github.com/247i/SQLiteBrowser.git உரை/கவிமொழிஉலாவி
 git clone https://github.com/247i/SQLiteMan.git உரை/கவிமொழிமனிதன்
 git clone https://github.com/247i/ScreenPlays.git கருவிகள்/திரைக்கதைகள்
