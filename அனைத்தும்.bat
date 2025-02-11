@@ -4,7 +4,6 @@ git clone https://github.com/247i/01.git துவக்கு/அகர
 git clone https://github.com/247i/2048.git ஆட்டங்கள்/2048 
 git clone https://github.com/247i/7z.git சூழல்பட்டி/7ஃ
 git clone https://github.com/247i/AIMP.git ஊடகம்/ஆஇஊஇ
-git clone https://github.com/247i/AIMPlng.git ஆஇஊஇ_மொழி 
 git clone https://github.com/247i/ASCII.git En/ASCII
 git clone https://github.com/247i/AniFX.git படம்/அணிஉரு
 git clone https://github.com/247i/AntRenamer.git கருவிகள்/மறுபெயரிடுஅந்தோ
@@ -94,6 +93,7 @@ git clone https://github.com/247i/PeerBlock.git கருவிகள்/இண�
 git clone https://github.com/247i/Pencil.git படம்/எழுதுகோல்
 git clone https://github.com/247i/PhotoFilmStrip.git படம்/நிழற்படத்தொடர் 
 git clone https://github.com/247i/PhraseExpress.git தட்டு/சொற்றொடர்வெளிப்படுத்து 
+git clone https://github.com/247i/picard.git ஊடகம்/பைஅட்டை
 git clone https://github.com/247i/PicPick.git படம்/படதேர்வு
 git clone https://github.com/247i/Pingus.git ஆட்டங்கள்/பிங்கச்
 git clone https://github.com/247i/PocketTanks.git ஆட்டங்கள்/சட்டைப்பைதொட்டிகள்  
