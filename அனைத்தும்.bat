@@ -50,7 +50,6 @@ git clone https://github.com/247i/Geany.git உரை/மேதை
 git clone https://github.com/247i/GetText.git மொழி/உரைபெறு
 git clone https://github.com/247i/Git சூழல்பட்டி/அறிவிலி
 git clone https://github.com/247i/GitExt.git சூழல்பட்டி/அறிவிலிநீட்டிப்புகள்
-git clone https://github.com/247i/GitHubDesktop அறிவிலிவேள்விபணிமேடை
 git clone https://github.com/247i/GnuCash.git உரை/குனுபணம்
 git clone https://github.com/247i/Golly.git ஆட்டங்கள்/கோலி 
 git clone https://github.com/247i/Guide.git உரை/வழிகாட்டி
@@ -107,12 +106,12 @@ git clone https://github.com/247i/QMMP.git ஊடகம்/கிபஊஇ
 git clone https://github.com/247i/Qalculate.git கருவிகள்/கணிப்பான்
 git clone https://github.com/247i/RDP.git கருவிகள்/தொலை
 git clone https://github.com/247i/RadioSure.git ஊடகம்/வானொலிஉறுதி
-git clone https://github.com/247i/ReNamer.git கருவிகள்/மறுபெயரிடுகருவிகள்/
+git clone https://github.com/247i/ReNamer.git கருவிகள்/மறுபெயரிடு
 git clone https://github.com/247i/RocksDiamonds.git ஆட்டங்கள்/பாறைகள்மவைரங்கள்
 git clone https://github.com/247i/Ruby.git உரை/மாணிக்கம்
 git clone https://github.com/247i/Rufus.git துவக்கு/உருப்பசு
 git clone https://github.com/247i/SIT.git கருவிகள்/அகக்கருவிகள்
-git clone https://github.com/247i/SQL.git உரை/ககருவிகள்/ட்டமைப்புவினவல்மொழி
+git clone https://github.com/247i/SQL.git உரை/கட்டமைப்புவினவல்மொழி
 git clone https://github.com/247i/SQLiteBrowser.git உரை/கவிமொழிஉலாவி
 git clone https://github.com/247i/SQLiteMan.git உரை/கவிமொழிமனிதன்
 git clone https://github.com/247i/ScreenPlays.git கருவிகள்/திரைக்கதைகள்
