@@ -1,4 +1,3 @@
-Rem அனைத்தும்
 git clone https://github.com/247i/.net.git உரை/புள்ளிப்பிணை
 git clone https://github.com/247i/01.git துவக்கு/அகர
 git clone https://github.com/247i/2048.git ஆட்டங்கள்/2048 
@@ -12,6 +11,7 @@ git clone https://github.com/247i/AudaCity.git ஊடகம்/ஆடாசி�
 git clone https://github.com/247i/Autoit3.git உரை/தானியங்கி3
 git clone https://github.com/247i/Azhagi.git தட்டு/அழகி
 git clone https://github.com/247i/Beeftext.git தட்டு/தசைஉரை
+git clone https://github.com/247i/BvSsh.git தட்டு/இஅபாஓடு
 git clone https://github.com/247i/Calibre.git உரை/மின்னூல்
 git clone https://github.com/247i/CamStudio.git ஊடகம்/படபட்டறை
 git clone https://github.com/247i/Celestia.git விண்/விண்ணுலகம்
