@@ -144,7 +144,6 @@ git clone https://github.com/247i/Transolution.git மொழி/பெயர்�
 git clone https://github.com/247i/TreeSize.git கருவிகள்/மரஅளவு
 git clone https://github.com/247i/TuxPaint.git படம்/டுக்சுவண்ணப்பூச்சு
 git clone https://github.com/247i/TwinDistress.git ஆட்டங்கள்/இரட்டைஅழுத்தமின்மை
-git clone https://github.com/247i/TypeFaster.git எழுத்து/தட்டச்சுவேகம்
 git clone https://github.com/247i/TyperTask.git தட்டு/தட்டச்சுபணி 
 git clone https://github.com/247i/UNetbootin.git துவக்கு/உநிகரதுவக்கம்
 git clone https://github.com/247i/UWT.git கருவிகள்/இறுதிசாளரமாற்றி
@@ -176,3 +175,4 @@ git clone https://github.com/247i/progit2.git மொழி/அறிவன்2
 git clone https://github.com/247i/python-docs-ta.git மொழி/பைத்தான்ஆவணங்கள்
 git clone https://github.com/247i/sumatrapdf.git உரை/சுமத்ராஎஆவ
 git clone https://github.com/247i/zint.git கருவிகள்/ஃஎண்
+git clone https://github.com/247i/TypeFaster.git எழுத்து/தட்டச்சுவேகம்
