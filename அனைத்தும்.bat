@@ -1,3 +1,17 @@
+git clone --depth 1 https://github.com/247i/.net07x64
+git clone --depth 1 https://github.com/247i/.net07x86
+git clone --depth 1 https://github.com/247i/.net08x64
+git clone --depth 1 https://github.com/247i/.net08x86
+git clone --depth 1 https://github.com/247i/.net09x64
+git clone --depth 1 https://github.com/247i/.net09x86
+git clone --depth 1 https://github.com/247i/.net10x64
+git clone --depth 1 https://github.com/247i/.net10x86
+git clone --depth 1 https://github.com/247i/.net11x64
+git clone --depth 1 https://github.com/247i/.net11x86
+git clone --depth 1 https://github.com/247i/7zx64
+git clone --depth 1 https://github.com/247i/7zx86
+git clone --depth 1 https://github.com/247i/7zetc
+git clone --depth 1 https://github.com/247i/7zSDK
 git clone https://github.com/247i/.net.git உரை/புள்ளிப்பிணை
 git clone https://github.com/247i/01.git துவக்கு/அகர
 git clone https://github.com/247i/2048.git ஆட்டங்கள்/2048 
