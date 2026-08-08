@@ -1,192 +1,210 @@
 git clone --depth 1 https://github.com/247i/.net07x64
-git clone --depth 1 https://github.com/247i/.net07x86
-git clone --depth 1 https://github.com/247i/.net08x64
-git clone --depth 1 https://github.com/247i/.net08x86
-git clone --depth 1 https://github.com/247i/.net09x64
-git clone --depth 1 https://github.com/247i/.net09x86
-git clone --depth 1 https://github.com/247i/.net10x64
-git clone --depth 1 https://github.com/247i/.net10x86
-git clone --depth 1 https://github.com/247i/.net11x64
-git clone --depth 1 https://github.com/247i/.net11x86
+REM git clone --depth 1 https://github.com/247i/.net07x86
+REM git clone --depth 1 https://github.com/247i/.net08x64
+REM git clone --depth 1 https://github.com/247i/.net08x86
+REM git clone --depth 1 https://github.com/247i/.net09x64
+REM git clone --depth 1 https://github.com/247i/.net09x86
+REM git clone --depth 1 https://github.com/247i/.net10x64
+REM git clone --depth 1 https://github.com/247i/.net10x86
+REM git clone --depth 1 https://github.com/247i/.net11x64
+REM git clone --depth 1 https://github.com/247i/.net11x86
 git clone --depth 1 https://github.com/247i/7zx64
-git clone --depth 1 https://github.com/247i/7zx86
-git clone --depth 1 https://github.com/247i/7zetc
-git clone --depth 1 https://github.com/247i/7zSDK
-git clone https://github.com/247i/.net.git உரை/புள்ளிப்பிணை
-git clone https://github.com/247i/01.git துவக்கு/அகர
-git clone https://github.com/247i/2048.git ஆட்டங்கள்/2048 
-git clone https://github.com/247i/7z.git சூழல்பட்டி/7ஃ
-git clone https://github.com/247i/AIMP.git ஊடகம்/ஆஇஊஇ
-git clone https://github.com/247i/ASCII.git En/ASCII
-git clone https://github.com/247i/AniFX.git படம்/அணிஉரு
-git clone https://github.com/247i/AntRenamer.git கருவிகள்/மறுபெயரிடுஅந்தோ
-git clone https://github.com/247i/Apps.git பயன்பாடுகள்
-git clone https://github.com/247i/AudaCity.git ஊடகம்/ஆடாசிட்டி
-git clone https://github.com/247i/Autoit3.git உரை/தானியங்கி3
-git clone https://github.com/247i/Azhagi.git தட்டு/அழகி
-git clone https://github.com/247i/Beeftext.git தட்டு/தசைஉரை
-git clone https://github.com/247i/BvSsh.git தட்டு/இஅபாஓடு
-git clone https://github.com/247i/Calibre.git உரை/மின்னூல்
-git clone https://github.com/247i/CamStudio.git ஊடகம்/படபட்டறை
-git clone https://github.com/247i/Celestia.git விண்/விண்ணுலகம்
-git clone https://github.com/247i/CherryTree.git உரை/செர்ரிமரம்
-git clone https://github.com/247i/ChessBrutal.git ஆட்டங்கள்/சதுரங்கம்கொடூரம்
-git clone https://github.com/247i/ChessLucas.git ஆட்டங்கள்/சதுரங்கம்லூகாசு
-git clone https://github.com/247i/ChessLucasR.git ஆட்டங்கள்/சதுரங்கம்-லூகாசு
-git clone https://github.com/247i/ClamWin.git கருவிகள்/மட்டிசாளரம்
-git clone https://github.com/247i/CleanerC.git கருவிகள்/துப்புரவாளர்சி
-git clone https://github.com/247i/CleanerWise.git கருவிகள்/துப்புரவாளர்அறிவு
-git clone https://github.com/247i/CodeBlocks.git உரை/குறியீடுதொகுதிகள் 
-git clone https://github.com/247i/ConvertAll.git கருவிகள்/அனைத்தும்மாற்றி
-git clone https://github.com/247i/CudaText.git உரை/குடாஉரை
-git clone https://github.com/247i/DSynchronize.git தட்டு/டிஒத்திசை
-git clone https://github.com/247i/DesktopTicker.git தட்டு/திரைப்பலகதுடிப்பு 
-git clone https://github.com/247i/DevC.git உரை/வளர்சி
-git clone https://github.com/247i/Dia.git படம்/சித்திரம்
-git clone https://github.com/247i/Dicom.git தட்டு/அகராதிகாம்
-git clone https://github.com/247i/DigitalMars.git உரை/எண்முறைசெவ்வாய்
-git clone https://github.com/247i/Ditto.git தட்டு/மேற்படியே
-git clone https://github.com/247i/DupFileFinder.git கருவிகள்/நகல்கண்டுபிடி
-git clone https://github.com/247i/PopMan.git தட்டு/தஅநெமனிதன்
-git clone https://github.com/247i/Eclipse.git உரை/இடைமறைப்பு
-git clone https://github.com/247i/Espanso.git தட்டு/உரைவிரிவாக்கி
-git clone https://github.com/247i/Everything.git தட்டு/எல்லாம் 
-git clone https://github.com/247i/Executables.git இயக்கிகள்
-git clone https://github.com/247i/Ezhil.git உரை/எழில்
-git clone https://github.com/247i/FastCopy.git சூழல்பட்டி/நகல்வேகம்
-git clone https://github.com/247i/FeedRoller.git தட்டு/ஊட்டிஉருளை
-git clone https://github.com/247i/FileZilla.git தட்டு/கோப்புசில்லா
-git clone https://github.com/247i/FontForge.git எழுத்து/எழுத்துருவடிவாக்கி
-git clone https://github.com/247i/FreeCAD.git கஉவ/இலவசம்
-git clone https://github.com/247i/Fyre.git படம்/தோழர்களே
-git clone https://github.com/247i/GIMP.git படம்/குபகைதி
-git clone https://github.com/247i/Geany.git உரை/மேதை
-git clone https://github.com/247i/GetText.git மொழி/உரைபெறு
-git clone https://github.com/247i/Git சூழல்பட்டி/அறிவிலி
-git clone https://github.com/247i/GitExt.git சூழல்பட்டி/அறிவிலிநீட்டிப்புகள்
-git clone https://github.com/247i/GnuCash.git உரை/குனுபணம்
-git clone https://github.com/247i/Golly.git ஆட்டங்கள்/கோலி 
-git clone https://github.com/247i/Guide.git உரை/வழிகாட்டி
-git clone https://github.com/247i/HeidiSQL.git உரை/ஐதிகவிமொ
-git clone https://github.com/247i/HexHop.git ஆட்டங்கள்/ஆறில்தாண்டு 
-git clone https://github.com/247i/I-Boot.git துவக்கு/ஐதுவக்கம்
-git clone https://github.com/247i/IcoFx3.git படம்/சின்னமுரு
-git clone https://github.com/247i/IcyTower.git ஆட்டங்கள்/பனிக்கோபுரம்
-git clone https://github.com/247i/IniTranslator.git மொழி/இனிபெயர்ப்பாளர்
-git clone https://github.com/247i/IniyaTamil.git தட்டு/இனியதமிழ்
-git clone https://github.com/247i/Inkscape.git படம்/மைசுமப்பவன்
-git clone https://github.com/247i/Java.git உரை/சாவா
-git clone https://github.com/247i/Jooleem.git ஆட்டங்கள்/சூலீம்
-git clone https://github.com/247i/Kompozer.git உரை/அமைப்பாளர்
-git clone https://github.com/247i/Kural.git தட்டு/குறள்
-git clone https://github.com/247i/LMarbles.git ஆட்டங்கள்/இலபளிங்குகற்கள்
-git clone https://github.com/247i/LiLiUSB.git துவக்கு/லிநேஉவபேஉருவாக்கி
-git clone https://github.com/247i/LibreCAD.git கஉவ/விடுதலை
-git clone https://github.com/247i/Listary.git தட்டு/இலக்கியவாதி
-git clone https://github.com/247i/Marble.git விண்/பளிங்கு
-git clone https://github.com/247i/MidTown.git ஆட்டங்கள்/நடுநகரம்
-git clone https://github.com/247i/Mines-Perfect.git ஆட்டங்கள்/சுரங்கங்கள்-சரியான
-git clone https://github.com/247i/Moodle.git கருவிகள்/மூடுல் 
-git clone https://github.com/247i/Mp3Tag.git ஊடகம்/எம்பி3குறி
-git clone https://github.com/247i/MuseScore.git ஊடகம்/இசைமதிப்பெண்
-git clone https://github.com/247i/NSIS.git உரை/சுஎநிஅ  
-git clone https://github.com/247i/Nim.git உரை/நிம்
-git clone https://github.com/247i/NotePadPP.git உரை/குறிப்பேடுகூகூ
-git clone https://github.com/247i/OBS-Studio.git ஊடகம்/திஒமெ-பட்டறை
-git clone https://github.com/247i/Office.git உரை/அலுவலகம்
-git clone https://github.com/247i/OmegaT.git மொழி/ஓமேகாடி
-git clone https://github.com/247i/OpenTTD.git ஆட்டங்கள்/திறந்தடிடிடீ 
-git clone https://github.com/247i/PDFXEdit.git உரை/எஆவமாதிருத்தி
-git clone https://github.com/247i/PDFXLocalizer.git மொழி/எஆவமாதிருத்திஉள்ளூராக்கி
-git clone https://github.com/247i/POEdit.git மொழி/எபொதிருத்தி
-git clone https://github.com/247i/PacificC.git உரை/அமைதிசி
-git clone https://github.com/247i/Pathological.git ஆட்டங்கள்/நோயியல் 
-git clone https://github.com/247i/PeaZip.git சூழல்பட்டி/பட்டாணிசுருக்கு
-git clone https://github.com/247i/PeerBlock.git கருவிகள்/இணையர்தடு
-git clone https://github.com/247i/Pencil.git படம்/எழுதுகோல்
-git clone https://github.com/247i/PhotoFilmStrip.git படம்/நிழற்படத்தொடர் 
-git clone https://github.com/247i/PhraseExpress.git தட்டு/சொற்றொடர்வெளிப்படுத்து 
-git clone https://github.com/247i/picard.git ஊடகம்/பைஅட்டை
-git clone https://github.com/247i/PicPick.git படம்/படதேர்வு
-git clone https://github.com/247i/Pingus.git ஆட்டங்கள்/பிங்கச்
-git clone https://github.com/247i/PocketTanks.git ஆட்டங்கள்/சட்டைப்பைதொட்டிகள்  
-git clone https://github.com/247i/Ponvizhi.git படம்/பொன்விழி
-git clone https://github.com/247i/Porul.git தட்டு/பொருள் 
-git clone https://github.com/247i/PotPlayer.git ஊடகம்/பானைஆட்டக்காரர்
-git clone https://github.com/247i/Prolog.git உரை/சுவிநிரல்தர்க்கம்
-git clone https://github.com/247i/PushOver.git ஆட்டங்கள்/மேலேதள்ளு
-git clone https://github.com/247i/Puzzles.git ஆட்டங்கள்/புதிர்கள் 
-git clone https://github.com/247i/QMMP.git ஊடகம்/கிபஊஇ
-git clone https://github.com/247i/Qalculate.git கருவிகள்/கணிப்பான்
-git clone https://github.com/247i/RDP.git கருவிகள்/தொலை
-git clone https://github.com/247i/RadioSure.git ஊடகம்/வானொலிஉறுதி
-git clone https://github.com/247i/ReNamer.git கருவிகள்/மறுபெயரிடு
-git clone https://github.com/247i/RocksDiamonds.git ஆட்டங்கள்/பாறைகள்மவைரங்கள்
-git clone https://github.com/247i/Ruby.git உரை/மாணிக்கம்
-git clone https://github.com/247i/Rufus.git துவக்கு/உருப்பசு
-git clone https://github.com/247i/SIT.git கருவிகள்/அகக்கருவிகள்
-git clone https://github.com/247i/SQLiteBrowser.git உரை/கவிமொழிஉலாவி
-git clone https://github.com/247i/SQLiteMan.git உரை/கவிமொழிமனிதன்
-git clone https://github.com/247i/ScreenPlays.git கருவிகள்/திரைக்கதைகள்
-git clone https://github.com/247i/ScreenToGifTranslator.git மொழி/திரைபிடிபடபெயர்ப்பாளர்
-git clone https://github.com/247i/Scribus.git உரை/எழுத்தாளன்
-git clone https://github.com/247i/SharpDevelop.git உரை/கூர்உருவாக்கி
-git clone https://github.com/247i/ShortcutsSearchAndReplace.git கருவிகள்/குறுக்குவழிகள்தேடிமாற்று
-git clone https://github.com/247i/Shotcut.git படம்/சுட்டுஒட்டு
-git clone https://github.com/247i/Skype.git தட்டு/வழி
-git clone https://github.com/247i/Skype7.git தட்டு/வழி7
-git clone https://github.com/247i/SourceTree.git கருவிகள்/மூலமரம் 
-git clone https://github.com/247i/SpeedCrunch.git கருவிகள்/வேகநெருக்கடி
-git clone https://github.com/247i/StartupSentinel.git கருவிகள்/தொடக்ககாவலாளி
-git clone https://github.com/247i/Stellarium.git விண்/விண்மீன்கள்
-git clone https://github.com/247i/StrokesPlus.git தட்டு/அடிகள்சேர்
-git clone https://github.com/247i/Sudoku.git ஆட்டங்கள்/சுடோகு
-git clone https://github.com/247i/SudokuSimple.git ஆட்டங்கள்/சுடோகுஎளிய
-git clone https://github.com/247i/SudokuUSB.git ஆட்டங்கள்/சுடோகுஉவபே
-git clone https://github.com/247i/SuperTux.git ஆட்டங்கள்/சூப்பர்டுக்சு
-git clone https://github.com/247i/T-3.git ஆட்டங்கள்/டே-3 
-git clone https://github.com/247i/TACETr.git மொழி/தமிழாக்கம்
-git clone https://github.com/247i/Telegram.git தட்டு/தந்தி
-git clone https://github.com/247i/TeraCopy.git சூழல்பட்டி/நகல்பெரிய
-git clone https://github.com/247i/Texter.git தட்டு/உரையாசிரியர்
-git clone https://github.com/247i/Thonny.git உரை/தோனி
-git clone https://github.com/247i/Tick5.git ஆட்டங்கள்/உண்ணி5
-git clone https://github.com/247i/TileWorld.git ஆட்டங்கள்/ஓடுஉலகம் 
-git clone https://github.com/247i/Tipp10.git எழுத்து/தட்டச்சுகுறிப்பு10
-git clone https://github.com/247i/TranslatorWise.git மொழி/பெயர்ப்பாளர்அறிவு
-git clone https://github.com/247i/Transolution.git மொழி/பெயர்த்தீர்வு
-git clone https://github.com/247i/TreeSize.git கருவிகள்/மரஅளவு
-git clone https://github.com/247i/TuxPaint.git படம்/டுக்சுவண்ணப்பூச்சு
-git clone https://github.com/247i/TwinDistress.git ஆட்டங்கள்/இரட்டைஅழுத்தமின்மை
-git clone https://github.com/247i/TyperTask.git தட்டு/தட்டச்சுபணி 
-git clone https://github.com/247i/UNetbootin.git துவக்கு/உநிகரதுவக்கம்
-git clone https://github.com/247i/UWT.git கருவிகள்/இறுதிசாளரமாற்றி
-git clone https://github.com/247i/UltraDefrag.git கருவிகள்/இறுதிதுண்டுஒட்டு
-git clone https://github.com/247i/Uninstall-Wise.git கருவிகள்/நிரல்நீக்கிஅறிவு
-git clone https://github.com/247i/Uninstall-ZSoft.git கருவிகள்/நிரல்நீக்கிஃமென்
-git clone https://github.com/247i/VLC.git ஊடகம்/காஉப
-git clone https://github.com/247i/VolleyBall.git ஆட்டங்கள்/கைப்பந்து
-git clone https://github.com/247i/WAtomic.git ஆட்டங்கள்/சாஅனு 
-git clone https://github.com/247i/WinBoard.git ஆட்டங்கள்/சாளரஅட்டை
-git clone https://github.com/247i/WinCDEmu.git கருவிகள்/சாளரவட்டுபின்பற்று
-git clone https://github.com/247i/WinDirStat.git கருவிகள்/சாளரகேப்புறைவிவரம்
-git clone https://github.com/247i/WinMerge.git சூழல்பட்டி/சாளரஒன்றிணை
-git clone https://github.com/247i/WinRegister.git கருவிகள்/சாளரபதிவு 
-git clone https://github.com/247i/WinSCP.git தட்டு/சாளரபாநகல்
-git clone https://github.com/247i/Wise.git கருவிகள்/அறிவு
-git clone https://github.com/247i/Wizznic.git ஆட்டங்கள்/விசுநிக்
-git clone https://github.com/247i/WordWeb.git தட்டு/சொல்வலை
-git clone https://github.com/247i/Workrave.git தட்டு/பணிவெறி 
-git clone https://github.com/247i/XAMPP.git தட்டு/ஓஅமபிபி
-git clone https://github.com/247i/Xye.git ஆட்டங்கள்/ஒஓ
-git clone https://github.com/247i/YUMI.git துவக்கு/உஉபநி
-git clone https://github.com/247i/Zaz.git ஆட்டங்கள்/சாச்
-git clone https://github.com/247i/lokalize.git மொழி/உள்ளூராக்கு
-git clone https://github.com/247i/node.git உரை/முனையம்
-git clone https://github.com/247i/octave.git உரை/எண்கோணம்
-git clone https://github.com/247i/perl.git உரை/முத்து
-git clone https://github.com/247i/progit2.git மொழி/அறிவன்2
-git clone https://github.com/247i/python-docs-ta.git மொழி/பைத்தான்ஆவணங்கள்
-git clone https://github.com/247i/sumatrapdf.git உரை/சுமத்ராஎஆவ
-git clone https://github.com/247i/zint.git கருவிகள்/ஃஎண்
-git clone https://github.com/247i/TypeFaster.git எழுத்து/தட்டச்சுவேகம்
+REM git clone --depth 1 https://github.com/247i/7zx86
+REM git clone --depth 1 https://github.com/247i/7zetc
+REM git clone --depth 1 https://github.com/247i/7zSDK
+git clone --depth 1 https://github.com/247i/Azhagi
+git clone --depth 1 https://github.com/247i/Everything
+git clone --depth 1 https://github.com/247i/FileZilla
+git clone --depth 1 https://github.com/247i/Geany
+git clone --depth 1 https://github.com/247i/Gitx64
+REM git clone --depth 1 https://github.com/247i/Gitx86
+git clone --depth 1 https://github.com/247i/GitExt
+git clone --depth 1 https://github.com/247i/IniyaTamil
+git clone --depth 1 https://github.com/247i/MeGit
+git clone --depth 1 https://github.com/247i/NotePadPP
+git clone --depth 1 https://github.com/247i/PuTTY
+git clone --depth 1 https://github.com/247i/SourceGit
+git clone --depth 1 https://github.com/247i/SumatraPDF
+git clone --depth 1 https://github.com/247i/Thonny
+git clone --depth 1 https://github.com/247i/WinMerge
+git clone --depth 1 https://github.com/247i/WinSCP
+
+REM git clone https://github.com/247i/.net.git உரை/புள்ளிப்பிணை
+REM git clone https://github.com/247i/01.git துவக்கு/அகர
+REM git clone https://github.com/247i/2048.git ஆட்டங்கள்/2048 
+REM git clone https://github.com/247i/7z.git சூழல்பட்டி/7ஃ
+REM git clone https://github.com/247i/AIMP.git ஊடகம்/ஆஇஊஇ
+REM git clone https://github.com/247i/ASCII.git En/ASCII
+REM git clone https://github.com/247i/AniFX.git படம்/அணிஉரு
+REM git clone https://github.com/247i/AntRenamer.git கருவிகள்/மறுபெயரிடுஅந்தோ
+REM git clone https://github.com/247i/Apps.git பயன்பாடுகள்
+REM git clone https://github.com/247i/AudaCity.git ஊடகம்/ஆடாசிட்டி
+REM git clone https://github.com/247i/Autoit3.git உரை/தானியங்கி3
+REM git clone https://github.com/247i/Azhagi.git தட்டு/அழகி
+REM git clone https://github.com/247i/Beeftext.git தட்டு/தசைஉரை
+REM git clone https://github.com/247i/BvSsh.git தட்டு/இஅபாஓடு
+REM git clone https://github.com/247i/Calibre.git உரை/மின்னூல்
+REM git clone https://github.com/247i/CamStudio.git ஊடகம்/படபட்டறை
+REM git clone https://github.com/247i/Celestia.git விண்/விண்ணுலகம்
+REM git clone https://github.com/247i/CherryTree.git உரை/செர்ரிமரம்
+REM git clone https://github.com/247i/ChessBrutal.git ஆட்டங்கள்/சதுரங்கம்கொடூரம்
+REM git clone https://github.com/247i/ChessLucas.git ஆட்டங்கள்/சதுரங்கம்லூகாசு
+REM git clone https://github.com/247i/ChessLucasR.git ஆட்டங்கள்/சதுரங்கம்-லூகாசு
+REM git clone https://github.com/247i/ClamWin.git கருவிகள்/மட்டிசாளரம்
+REM git clone https://github.com/247i/CleanerC.git கருவிகள்/துப்புரவாளர்சி
+REM git clone https://github.com/247i/CleanerWise.git கருவிகள்/துப்புரவாளர்அறிவு
+REM git clone https://github.com/247i/CodeBlocks.git உரை/குறியீடுதொகுதிகள் 
+REM git clone https://github.com/247i/ConvertAll.git கருவிகள்/அனைத்தும்மாற்றி
+REM git clone https://github.com/247i/CudaText.git உரை/குடாஉரை
+REM git clone https://github.com/247i/DSynchronize.git தட்டு/டிஒத்திசை
+REM git clone https://github.com/247i/DesktopTicker.git தட்டு/திரைப்பலகதுடிப்பு 
+REM git clone https://github.com/247i/DevC.git உரை/வளர்சி
+REM git clone https://github.com/247i/Dia.git படம்/சித்திரம்
+REM git clone https://github.com/247i/Dicom.git தட்டு/அகராதிகாம்
+REM git clone https://github.com/247i/DigitalMars.git உரை/எண்முறைசெவ்வாய்
+REM git clone https://github.com/247i/Ditto.git தட்டு/மேற்படியே
+REM git clone https://github.com/247i/DupFileFinder.git கருவிகள்/நகல்கண்டுபிடி
+REM git clone https://github.com/247i/PopMan.git தட்டு/தஅநெமனிதன்
+REM git clone https://github.com/247i/Eclipse.git உரை/இடைமறைப்பு
+REM git clone https://github.com/247i/Espanso.git தட்டு/உரைவிரிவாக்கி
+REM git clone https://github.com/247i/Everything.git தட்டு/எல்லாம் 
+REM git clone https://github.com/247i/Executables.git இயக்கிகள்
+REM git clone https://github.com/247i/Ezhil.git உரை/எழில்
+REM git clone https://github.com/247i/FastCopy.git சூழல்பட்டி/நகல்வேகம்
+REM git clone https://github.com/247i/FeedRoller.git தட்டு/ஊட்டிஉருளை
+REM git clone https://github.com/247i/FileZilla.git தட்டு/கோப்புசில்லா
+REM git clone https://github.com/247i/FontForge.git எழுத்து/எழுத்துருவடிவாக்கி
+REM git clone https://github.com/247i/FreeCAD.git கஉவ/இலவசம்
+REM git clone https://github.com/247i/Fyre.git படம்/தோழர்களே
+REM git clone https://github.com/247i/GIMP.git படம்/குபகைதி
+REM git clone https://github.com/247i/Geany.git உரை/மேதை
+REM git clone https://github.com/247i/GetText.git மொழி/உரைபெறு
+REM git clone https://github.com/247i/Git சூழல்பட்டி/அறிவிலி
+REM git clone https://github.com/247i/GitExt.git சூழல்பட்டி/அறிவிலிநீட்டிப்புகள்
+REM git clone https://github.com/247i/GnuCash.git உரை/குனுபணம்
+REM git clone https://github.com/247i/Golly.git ஆட்டங்கள்/கோலி 
+REM git clone https://github.com/247i/Guide.git உரை/வழிகாட்டி
+REM git clone https://github.com/247i/HeidiSQL.git உரை/ஐதிகவிமொ
+REM git clone https://github.com/247i/HexHop.git ஆட்டங்கள்/ஆறில்தாண்டு 
+REM git clone https://github.com/247i/I-Boot.git துவக்கு/ஐதுவக்கம்
+REM git clone https://github.com/247i/IcoFx3.git படம்/சின்னமுரு
+REM git clone https://github.com/247i/IcyTower.git ஆட்டங்கள்/பனிக்கோபுரம்
+REM git clone https://github.com/247i/IniTranslator.git மொழி/இனிபெயர்ப்பாளர்
+REM git clone https://github.com/247i/IniyaTamil.git தட்டு/இனியதமிழ்
+REM git clone https://github.com/247i/Inkscape.git படம்/மைசுமப்பவன்
+REM git clone https://github.com/247i/Java.git உரை/சாவா
+REM git clone https://github.com/247i/Jooleem.git ஆட்டங்கள்/சூலீம்
+REM git clone https://github.com/247i/Kompozer.git உரை/அமைப்பாளர்
+REM git clone https://github.com/247i/Kural.git தட்டு/குறள்
+REM git clone https://github.com/247i/LMarbles.git ஆட்டங்கள்/இலபளிங்குகற்கள்
+REM git clone https://github.com/247i/LiLiUSB.git துவக்கு/லிநேஉவபேஉருவாக்கி
+REM git clone https://github.com/247i/LibreCAD.git கஉவ/விடுதலை
+REM git clone https://github.com/247i/Listary.git தட்டு/இலக்கியவாதி
+REM git clone https://github.com/247i/Marble.git விண்/பளிங்கு
+REM git clone https://github.com/247i/MidTown.git ஆட்டங்கள்/நடுநகரம்
+REM git clone https://github.com/247i/Mines-Perfect.git ஆட்டங்கள்/சுரங்கங்கள்-சரியான
+REM git clone https://github.com/247i/Moodle.git கருவிகள்/மூடுல் 
+REM git clone https://github.com/247i/Mp3Tag.git ஊடகம்/எம்பி3குறி
+REM git clone https://github.com/247i/MuseScore.git ஊடகம்/இசைமதிப்பெண்
+REM git clone https://github.com/247i/NSIS.git உரை/சுஎநிஅ  
+REM git clone https://github.com/247i/Nim.git உரை/நிம்
+REM git clone https://github.com/247i/NotePadPP.git உரை/குறிப்பேடுகூகூ
+REM git clone https://github.com/247i/OBS-Studio.git ஊடகம்/திஒமெ-பட்டறை
+REM git clone https://github.com/247i/Office.git உரை/அலுவலகம்
+REM git clone https://github.com/247i/OmegaT.git மொழி/ஓமேகாடி
+REM git clone https://github.com/247i/OpenTTD.git ஆட்டங்கள்/திறந்தடிடிடீ 
+REM git clone https://github.com/247i/PDFXEdit.git உரை/எஆவமாதிருத்தி
+REM git clone https://github.com/247i/PDFXLocalizer.git மொழி/எஆவமாதிருத்திஉள்ளூராக்கி
+REM git clone https://github.com/247i/POEdit.git மொழி/எபொதிருத்தி
+REM git clone https://github.com/247i/PacificC.git உரை/அமைதிசி
+REM git clone https://github.com/247i/Pathological.git ஆட்டங்கள்/நோயியல் 
+REM git clone https://github.com/247i/PeaZip.git சூழல்பட்டி/பட்டாணிசுருக்கு
+REM git clone https://github.com/247i/PeerBlock.git கருவிகள்/இணையர்தடு
+REM git clone https://github.com/247i/Pencil.git படம்/எழுதுகோல்
+REM git clone https://github.com/247i/PhotoFilmStrip.git படம்/நிழற்படத்தொடர் 
+REM git clone https://github.com/247i/PhraseExpress.git தட்டு/சொற்றொடர்வெளிப்படுத்து 
+REM git clone https://github.com/247i/picard.git ஊடகம்/பைஅட்டை
+REM git clone https://github.com/247i/PicPick.git படம்/படதேர்வு
+REM git clone https://github.com/247i/Pingus.git ஆட்டங்கள்/பிங்கச்
+REM git clone https://github.com/247i/PocketTanks.git ஆட்டங்கள்/சட்டைப்பைதொட்டிகள்  
+REM git clone https://github.com/247i/Ponvizhi.git படம்/பொன்விழி
+REM git clone https://github.com/247i/Porul.git தட்டு/பொருள் 
+REM git clone https://github.com/247i/PotPlayer.git ஊடகம்/பானைஆட்டக்காரர்
+REM git clone https://github.com/247i/Prolog.git உரை/சுவிநிரல்தர்க்கம்
+REM git clone https://github.com/247i/PushOver.git ஆட்டங்கள்/மேலேதள்ளு
+REM git clone https://github.com/247i/Puzzles.git ஆட்டங்கள்/புதிர்கள் 
+REM git clone https://github.com/247i/QMMP.git ஊடகம்/கிபஊஇ
+REM git clone https://github.com/247i/Qalculate.git கருவிகள்/கணிப்பான்
+REM git clone https://github.com/247i/RDP.git கருவிகள்/தொலை
+REM git clone https://github.com/247i/RadioSure.git ஊடகம்/வானொலிஉறுதி
+REM git clone https://github.com/247i/ReNamer.git கருவிகள்/மறுபெயரிடு
+REM git clone https://github.com/247i/RocksDiamonds.git ஆட்டங்கள்/பாறைகள்மவைரங்கள்
+REM git clone https://github.com/247i/Ruby.git உரை/மாணிக்கம்
+REM git clone https://github.com/247i/Rufus.git துவக்கு/உருப்பசு
+REM git clone https://github.com/247i/SIT.git கருவிகள்/அகக்கருவிகள்
+REM git clone https://github.com/247i/SQLiteBrowser.git உரை/கவிமொழிஉலாவி
+REM git clone https://github.com/247i/SQLiteMan.git உரை/கவிமொழிமனிதன்
+REM git clone https://github.com/247i/ScreenPlays.git கருவிகள்/திரைக்கதைகள்
+REM git clone https://github.com/247i/ScreenToGifTranslator.git மொழி/திரைபிடிபடபெயர்ப்பாளர்
+REM git clone https://github.com/247i/Scribus.git உரை/எழுத்தாளன்
+REM git clone https://github.com/247i/SharpDevelop.git உரை/கூர்உருவாக்கி
+REM git clone https://github.com/247i/ShortcutsSearchAndReplace.git கருவிகள்/குறுக்குவழிகள்தேடிமாற்று
+REM git clone https://github.com/247i/Shotcut.git படம்/சுட்டுஒட்டு
+REM git clone https://github.com/247i/Skype.git தட்டு/வழி
+REM git clone https://github.com/247i/Skype7.git தட்டு/வழி7
+REM git clone https://github.com/247i/SourceTree.git கருவிகள்/மூலமரம் 
+REM git clone https://github.com/247i/SpeedCrunch.git கருவிகள்/வேகநெருக்கடி
+REM git clone https://github.com/247i/StartupSentinel.git கருவிகள்/தொடக்ககாவலாளி
+REM git clone https://github.com/247i/Stellarium.git விண்/விண்மீன்கள்
+REM git clone https://github.com/247i/StrokesPlus.git தட்டு/அடிகள்சேர்
+REM git clone https://github.com/247i/Sudoku.git ஆட்டங்கள்/சுடோகு
+REM git clone https://github.com/247i/SudokuSimple.git ஆட்டங்கள்/சுடோகுஎளிய
+REM git clone https://github.com/247i/SudokuUSB.git ஆட்டங்கள்/சுடோகுஉவபே
+REM git clone https://github.com/247i/SuperTux.git ஆட்டங்கள்/சூப்பர்டுக்சு
+REM git clone https://github.com/247i/T-3.git ஆட்டங்கள்/டே-3 
+REM git clone https://github.com/247i/TACETr.git மொழி/தமிழாக்கம்
+REM git clone https://github.com/247i/Telegram.git தட்டு/தந்தி
+REM git clone https://github.com/247i/TeraCopy.git சூழல்பட்டி/நகல்பெரிய
+REM git clone https://github.com/247i/Texter.git தட்டு/உரையாசிரியர்
+REM git clone https://github.com/247i/Thonny.git உரை/தோனி
+REM git clone https://github.com/247i/Tick5.git ஆட்டங்கள்/உண்ணி5
+REM git clone https://github.com/247i/TileWorld.git ஆட்டங்கள்/ஓடுஉலகம் 
+REM git clone https://github.com/247i/Tipp10.git எழுத்து/தட்டச்சுகுறிப்பு10
+REM git clone https://github.com/247i/TranslatorWise.git மொழி/பெயர்ப்பாளர்அறிவு
+REM git clone https://github.com/247i/Transolution.git மொழி/பெயர்த்தீர்வு
+REM git clone https://github.com/247i/TreeSize.git கருவிகள்/மரஅளவு
+REM git clone https://github.com/247i/TuxPaint.git படம்/டுக்சுவண்ணப்பூச்சு
+REM git clone https://github.com/247i/TwinDistress.git ஆட்டங்கள்/இரட்டைஅழுத்தமின்மை
+REM git clone https://github.com/247i/TyperTask.git தட்டு/தட்டச்சுபணி 
+REM git clone https://github.com/247i/UNetbootin.git துவக்கு/உநிகரதுவக்கம்
+REM git clone https://github.com/247i/UWT.git கருவிகள்/இறுதிசாளரமாற்றி
+REM git clone https://github.com/247i/UltraDefrag.git கருவிகள்/இறுதிதுண்டுஒட்டு
+REM git clone https://github.com/247i/Uninstall-Wise.git கருவிகள்/நிரல்நீக்கிஅறிவு
+REM git clone https://github.com/247i/Uninstall-ZSoft.git கருவிகள்/நிரல்நீக்கிஃமென்
+REM git clone https://github.com/247i/VLC.git ஊடகம்/காஉப
+REM git clone https://github.com/247i/VolleyBall.git ஆட்டங்கள்/கைப்பந்து
+REM git clone https://github.com/247i/WAtomic.git ஆட்டங்கள்/சாஅனு 
+REM git clone https://github.com/247i/WinBoard.git ஆட்டங்கள்/சாளரஅட்டை
+REM git clone https://github.com/247i/WinCDEmu.git கருவிகள்/சாளரவட்டுபின்பற்று
+REM git clone https://github.com/247i/WinDirStat.git கருவிகள்/சாளரகேப்புறைவிவரம்
+REM git clone https://github.com/247i/WinMerge.git சூழல்பட்டி/சாளரஒன்றிணை
+REM git clone https://github.com/247i/WinRegister.git கருவிகள்/சாளரபதிவு 
+REM git clone https://github.com/247i/WinSCP.git தட்டு/சாளரபாநகல்
+REM git clone https://github.com/247i/Wise.git கருவிகள்/அறிவு
+REM git clone https://github.com/247i/Wizznic.git ஆட்டங்கள்/விசுநிக்
+REM git clone https://github.com/247i/WordWeb.git தட்டு/சொல்வலை
+REM git clone https://github.com/247i/Workrave.git தட்டு/பணிவெறி 
+REM git clone https://github.com/247i/XAMPP.git தட்டு/ஓஅமபிபி
+REM git clone https://github.com/247i/Xye.git ஆட்டங்கள்/ஒஓ
+REM git clone https://github.com/247i/YUMI.git துவக்கு/உஉபநி
+REM git clone https://github.com/247i/Zaz.git ஆட்டங்கள்/சாச்
+REM git clone https://github.com/247i/lokalize.git மொழி/உள்ளூராக்கு
+REM git clone https://github.com/247i/node.git உரை/முனையம்
+REM git clone https://github.com/247i/octave.git உரை/எண்கோணம்
+REM git clone https://github.com/247i/perl.git உரை/முத்து
+REM git clone https://github.com/247i/progit2.git மொழி/அறிவன்2
+REM git clone https://github.com/247i/python-docs-ta.git மொழி/பைத்தான்ஆவணங்கள்
+REM git clone https://github.com/247i/sumatrapdf.git உரை/சுமத்ராஎஆவ
+REM git clone https://github.com/247i/zint.git கருவிகள்/ஃஎண்
+REM git clone https://github.com/247i/TypeFaster.git எழுத்து/தட்டச்சுவேகம்
+REM 
