@@ -1,27 +1,38 @@
-git clone --depth 1 https://github.com/247i/Git.Ext
-git clone --depth 1 https://github.com/247i/Git-64
-git clone --depth 1 https://github.com/247i/WinMerge-64 WinMerge-64
-Rem git clone --depth 1 https://github.com/247i/WinMerge-32 WinMerge-32
-REM git clone --depth 1 https://github.com/247i/WinMerge-64.git சூழல்பட்டி/சாளரஒன்றிணை
-git clone --depth 1 https://github.com/247i/.net07-64
 REM git clone --depth 1 https://github.com/247i/.net07-32
-REM git clone --depth 1 https://github.com/247i/.net08-64
+git clone --depth 1 https://github.com/247i/.net07-64
+REM git clone --depth 1 https://github.com/247i/.net.git உரை/புள்ளிப்பிணை
+
 REM git clone --depth 1 https://github.com/247i/.net08-32
-REM git clone --depth 1 https://github.com/247i/.net09-64
+REM git clone --depth 1 https://github.com/247i/.net08-64
+
 REM git clone --depth 1 https://github.com/247i/.net09-32
-REM git clone --depth 1 https://github.com/247i/.net10-64
+REM git clone --depth 1 https://github.com/247i/.net09-64
+
 REM git clone --depth 1 https://github.com/247i/.net10-32
-REM git clone --depth 1 https://github.com/247i/.net11-64
+REM git clone --depth 1 https://github.com/247i/.net10-64
+
 REM git clone --depth 1 https://github.com/247i/.net11-32
-git clone --depth 1 https://github.com/247i/7z-64
+REM git clone --depth 1 https://github.com/247i/.net11-64
+
 REM git clone --depth 1 https://github.com/247i/7z-32
+git clone --depth 1 https://github.com/247i/7z-64
 REM git clone --depth 1 https://github.com/247i/7zetc
 REM git clone --depth 1 https://github.com/247i/7zSDK
+
 git clone --depth 1 https://github.com/247i/Azhagi
-rem git clone --depth 1 https://github.com/247i/EverythingEtc
+
 rem git clone --depth 1 https://github.com/247i/Everything-32
 git clone --depth 1 https://github.com/247i/Everything-64
+rem git clone --depth 1 https://github.com/247i/EverythingEtc
+
+rem git clone --depth 1 https://github.com/247i/FileZilla-32
 git clone --depth 1 https://github.com/247i/FileZilla-64
+
+git clone --depth 1 https://github.com/247i/Git.Ext
+
+git clone --depth 1 https://github.com/247i/Git-32
+git clone --depth 1 https://github.com/247i/Git-64
+
 git clone --depth 1 https://github.com/247i/Geany
 git clone --depth 1 https://github.com/247i/IniyaTamil
 git clone --depth 1 https://github.com/247i/MeGit
@@ -31,9 +42,11 @@ git clone --depth 1 https://github.com/247i/SourceGit
 git clone --depth 1 https://github.com/247i/SumatraPDF
 git clone --depth 1 https://github.com/247i/Thonny
 git clone --depth 1 https://github.com/247i/WinSCP
+Rem git clone --depth 1 https://github.com/247i/WinMerge-32
+git clone --depth 1 https://github.com/247i/WinMerge-64
+REM git clone --depth 1 https://github.com/247i/WinMerge-64.git சூழல்பட்டி/சாளரஒன்றிணை
 
 pause
-REM git clone --depth 1 https://github.com/247i/.net.git உரை/புள்ளிப்பிணை
 REM git clone --depth 1 https://github.com/247i/01.git துவக்கு/அகர
 REM git clone --depth 1 https://github.com/247i/2048.git ஆட்டங்கள்/2048 
 REM git clone --depth 1 https://github.com/247i/7z.git சூழல்பட்டி/7ஃ
