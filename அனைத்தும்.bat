@@ -1,7 +1,7 @@
-git clone --depth 1 https://github.com/247i/.ge
-git clone --depth 1 https://github.com/247i/Git-64 .ge\Git-64
-git clone --depth 1 https://github.com/247i/WinMerge-64 .ge\WinMerge-64
-Rem git clone --depth 1 https://github.com/247i/WinMerge-32 .ge\WinMerge-32
+git clone --depth 1 https://github.com/247i/Git.Ext
+git clone --depth 1 https://github.com/247i/Git-64
+git clone --depth 1 https://github.com/247i/WinMerge-64 WinMerge-64
+Rem git clone --depth 1 https://github.com/247i/WinMerge-32 WinMerge-32
 REM git clone --depth 1 https://github.com/247i/WinMerge-64.git சூழல்பட்டி/சாளரஒன்றிணை
 git clone --depth 1 https://github.com/247i/.net07-64
 REM git clone --depth 1 https://github.com/247i/.net07-32
