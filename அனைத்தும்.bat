@@ -1,26 +1,27 @@
 git clone --depth 1 https://github.com/247i/.ge
-git clone --depth 1 https://github.com/247i/Gitx64 .ge\Gitx64
-git clone --depth 1 https://github.com/247i/WinMergex64 .ge\WinMergex64
-git clone --depth 1 https://github.com/247i/WinMergex86 .ge\WinMergex86
-git clone --depth 1 https://github.com/247i/.net07x64
-REM git clone --depth 1 https://github.com/247i/.net07x86
-REM git clone --depth 1 https://github.com/247i/.net08x64
-REM git clone --depth 1 https://github.com/247i/.net08x86
-REM git clone --depth 1 https://github.com/247i/.net09x64
-REM git clone --depth 1 https://github.com/247i/.net09x86
-REM git clone --depth 1 https://github.com/247i/.net10x64
-REM git clone --depth 1 https://github.com/247i/.net10x86
-REM git clone --depth 1 https://github.com/247i/.net11x64
-REM git clone --depth 1 https://github.com/247i/.net11x86
-git clone --depth 1 https://github.com/247i/7zx64
-REM git clone --depth 1 https://github.com/247i/7zx86
+git clone --depth 1 https://github.com/247i/Git-64 .ge\Git-64
+git clone --depth 1 https://github.com/247i/WinMerge-64 .ge\WinMerge-64
+Rem git clone --depth 1 https://github.com/247i/WinMerge-32 .ge\WinMerge-32
+REM git clone --depth 1 https://github.com/247i/WinMerge-64.git சூழல்பட்டி/சாளரஒன்றிணை
+git clone --depth 1 https://github.com/247i/.net07-64
+REM git clone --depth 1 https://github.com/247i/.net07-32
+REM git clone --depth 1 https://github.com/247i/.net08-64
+REM git clone --depth 1 https://github.com/247i/.net08-32
+REM git clone --depth 1 https://github.com/247i/.net09-64
+REM git clone --depth 1 https://github.com/247i/.net09-32
+REM git clone --depth 1 https://github.com/247i/.net10-64
+REM git clone --depth 1 https://github.com/247i/.net10-32
+REM git clone --depth 1 https://github.com/247i/.net11-64
+REM git clone --depth 1 https://github.com/247i/.net11-32
+git clone --depth 1 https://github.com/247i/7z-64
+REM git clone --depth 1 https://github.com/247i/7z-32
 REM git clone --depth 1 https://github.com/247i/7zetc
 REM git clone --depth 1 https://github.com/247i/7zSDK
 git clone --depth 1 https://github.com/247i/Azhagi
-git clone --depth 1 https://github.com/247i/EverythingEtc
-git clone --depth 1 https://github.com/247i/Everythingx86
-git clone --depth 1 https://github.com/247i/Everythingx64
-git clone --depth 1 https://github.com/247i/FileZilla
+rem git clone --depth 1 https://github.com/247i/EverythingEtc
+rem git clone --depth 1 https://github.com/247i/Everything-32
+git clone --depth 1 https://github.com/247i/Everything-64
+git clone --depth 1 https://github.com/247i/FileZilla-64
 git clone --depth 1 https://github.com/247i/Geany
 git clone --depth 1 https://github.com/247i/IniyaTamil
 git clone --depth 1 https://github.com/247i/MeGit
@@ -29,7 +30,6 @@ git clone --depth 1 https://github.com/247i/PuTTY
 git clone --depth 1 https://github.com/247i/SourceGit
 git clone --depth 1 https://github.com/247i/SumatraPDF
 git clone --depth 1 https://github.com/247i/Thonny
-git clone --depth 1 https://github.com/247i/WinMerge
 git clone --depth 1 https://github.com/247i/WinSCP
 
 pause
@@ -191,7 +191,6 @@ REM git clone --depth 1 https://github.com/247i/WAtomic.git ஆட்டங்�
 REM git clone --depth 1 https://github.com/247i/WinBoard.git ஆட்டங்கள்/சாளரஅட்டை
 REM git clone --depth 1 https://github.com/247i/WinCDEmu.git கருவிகள்/சாளரவட்டுபின்பற்று
 REM git clone --depth 1 https://github.com/247i/WinDirStat.git கருவிகள்/சாளரகேப்புறைவிவரம்
-REM git clone --depth 1 https://github.com/247i/WinMerge.git சூழல்பட்டி/சாளரஒன்றிணை
 REM git clone --depth 1 https://github.com/247i/WinRegister.git கருவிகள்/சாளரபதிவு 
 REM git clone --depth 1 https://github.com/247i/WinSCP.git தட்டு/சாளரபாநகல்
 REM git clone --depth 1 https://github.com/247i/Wise.git கருவிகள்/அறிவு
