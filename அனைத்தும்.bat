@@ -25,15 +25,15 @@ rem git clone --depth 1 https://github.com/247i/Everything-32
 git clone --depth 1 https://github.com/247i/Everything-64
 rem git clone --depth 1 https://github.com/247i/EverythingEtc
 
-git clone --depth 1 https://github.com/247i/FileZilla-32
-git clone --depth 1 https://github.com/247i/FileZilla-64
+rem git clone --depth 1 https://github.com/247i/FileZilla-32
+rem git clone --depth 1 https://github.com/247i/FileZilla-64
 
 git clone --depth 1 https://github.com/247i/Git.Ext
 
 rem git clone --depth 1 https://github.com/247i/Git-32
 git clone --depth 1 https://github.com/247i/Git-64
 
-git clone --depth 1 https://github.com/247i/Geany
+rem git clone --depth 1 https://github.com/247i/Geany
 git clone --depth 1 https://github.com/247i/IniyaTamil
 git clone --depth 1 https://github.com/247i/MeGit
 Rem git clone --depth 1 https://github.com/247i/NPP-32
@@ -42,7 +42,7 @@ git clone --depth 1 https://github.com/247i/PuTTY
 git clone --depth 1 https://github.com/247i/SourceGit
 git clone --depth 1 https://github.com/247i/SumatraPDF
 git clone --depth 1 https://github.com/247i/Thonny
-git clone --depth 1 https://github.com/247i/WinSCP
+rem git clone --depth 1 https://github.com/247i/WinSCP
 Rem git clone --depth 1 https://github.com/247i/WinMerge-32
 git clone --depth 1 https://github.com/247i/WinMerge-64
 REM git clone --depth 1 https://github.com/247i/WinMerge-64.git சூழல்பட்டி/சாளரஒன்றிணை
