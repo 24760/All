@@ -34,11 +34,11 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/.net11-64
 	git clone --depth 1 https://github.com/247i/7z-64
 	git clone --depth 1 https://github.com/247i/Everything-64
-	git clone --depth 1 https://github.com/247i/FileZilla-64
+	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
 	git clone --depth 1 https://github.com/247i/Git-64
 	git clone --depth 1 https://github.com/247i/NPP-64
 	git clone --depth 1 https://github.com/247i/WinMerge-64
-	git clone --depth 1 https://github.com/247i/Thonny-64
+	Rem git clone --depth 1 https://github.com/247i/Thonny-64
 	
 ) else if /i "%ARCH%"=="ARM64" (
     echo System is 64-bit ARM
