@@ -25,18 +25,19 @@ rem git clone --depth 1 https://github.com/247i/Everything-32
 git clone --depth 1 https://github.com/247i/Everything-64
 rem git clone --depth 1 https://github.com/247i/EverythingEtc
 
-rem git clone --depth 1 https://github.com/247i/FileZilla-32
+git clone --depth 1 https://github.com/247i/FileZilla-32
 git clone --depth 1 https://github.com/247i/FileZilla-64
 
 git clone --depth 1 https://github.com/247i/Git.Ext
 
-git clone --depth 1 https://github.com/247i/Git-32
+rem git clone --depth 1 https://github.com/247i/Git-32
 git clone --depth 1 https://github.com/247i/Git-64
 
 git clone --depth 1 https://github.com/247i/Geany
 git clone --depth 1 https://github.com/247i/IniyaTamil
 git clone --depth 1 https://github.com/247i/MeGit
-git clone --depth 1 https://github.com/247i/NotePadPP
+Rem git clone --depth 1 https://github.com/247i/NPP-32
+git clone --depth 1 https://github.com/247i/NPP-64
 git clone --depth 1 https://github.com/247i/PuTTY
 git clone --depth 1 https://github.com/247i/SourceGit
 git clone --depth 1 https://github.com/247i/SumatraPDF
@@ -46,7 +47,6 @@ Rem git clone --depth 1 https://github.com/247i/WinMerge-32
 git clone --depth 1 https://github.com/247i/WinMerge-64
 REM git clone --depth 1 https://github.com/247i/WinMerge-64.git சூழல்பட்டி/சாளரஒன்றிணை
 
-pause
 REM git clone --depth 1 https://github.com/247i/01.git துவக்கு/அகர
 REM git clone --depth 1 https://github.com/247i/2048.git ஆட்டங்கள்/2048 
 REM git clone --depth 1 https://github.com/247i/7z.git சூழல்பட்டி/7ஃ
@@ -224,3 +224,5 @@ REM git clone --depth 1 https://github.com/247i/sumatrapdf.git உரை/சு�
 REM git clone --depth 1 https://github.com/247i/zint.git கருவிகள்/ஃஎண்
 REM git clone --depth 1 https://github.com/247i/TypeFaster.git எழுத்து/தட்டச்சுவேகம்
 REM 
+
+pause
