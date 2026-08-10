@@ -1,50 +1,69 @@
-REM git clone --depth 1 https://github.com/247i/.net07-32
-git clone --depth 1 https://github.com/247i/.net07-64
-REM git clone --depth 1 https://github.com/247i/.net.git உரை/புள்ளிப்பிணை
+@echo off
 
-REM git clone --depth 1 https://github.com/247i/.net08-32
-REM git clone --depth 1 https://github.com/247i/.net08-64
-
-REM git clone --depth 1 https://github.com/247i/.net09-32
-REM git clone --depth 1 https://github.com/247i/.net09-64
-
-REM git clone --depth 1 https://github.com/247i/.net10-32
-REM git clone --depth 1 https://github.com/247i/.net10-64
-
-REM git clone --depth 1 https://github.com/247i/.net11-32
-REM git clone --depth 1 https://github.com/247i/.net11-64
-
-REM git clone --depth 1 https://github.com/247i/7z-32
-git clone --depth 1 https://github.com/247i/7z-64
 REM git clone --depth 1 https://github.com/247i/7zetc
 REM git clone --depth 1 https://github.com/247i/7zSDK
-
+REM git clone --depth 1 https://github.com/247i/.net.git உரை/புள்ளிப்பிணை
 git clone --depth 1 https://github.com/247i/Azhagi
-
-rem git clone --depth 1 https://github.com/247i/Everything-32
-git clone --depth 1 https://github.com/247i/Everything-64
 rem git clone --depth 1 https://github.com/247i/EverythingEtc
-
-rem git clone --depth 1 https://github.com/247i/FileZilla-32
-rem git clone --depth 1 https://github.com/247i/FileZilla-64
-
 git clone --depth 1 https://github.com/247i/Git.Ext
-
-rem git clone --depth 1 https://github.com/247i/Git-32
-git clone --depth 1 https://github.com/247i/Git-64
-
 rem git clone --depth 1 https://github.com/247i/Geany
 git clone --depth 1 https://github.com/247i/IniyaTamil
 git clone --depth 1 https://github.com/247i/MeGit
-Rem git clone --depth 1 https://github.com/247i/NPP-32
-git clone --depth 1 https://github.com/247i/NPP-64
-git clone --depth 1 https://github.com/247i/PuTTY
-git clone --depth 1 https://github.com/247i/SourceGit
-git clone --depth 1 https://github.com/247i/SumatraPDF
-git clone --depth 1 https://github.com/247i/Thonny
 rem git clone --depth 1 https://github.com/247i/WinSCP
-Rem git clone --depth 1 https://github.com/247i/WinMerge-32
-git clone --depth 1 https://github.com/247i/WinMerge-64
+git clone --depth 1 https://github.com/247i/SumatraPDF
+git clone --depth 1 https://github.com/247i/SourceGit
+rem git clone --depth 1 https://github.com/247i/PuTTY
+
+setlocal
+
+if defined PROCESSOR_ARCHITEW6432 (
+    set "ARCH=%PROCESSOR_ARCHITEW6432%"
+) else (
+    set "ARCH=%PROCESSOR_ARCHITECTURE%"
+)
+
+echo Detected architecture: %ARCH%
+
+
+if /i "%ARCH%"=="AMD64" (
+    echo System is 64-bit x86 ^(x64^)
+	git clone --depth 1 https://github.com/247i/.net07-64
+	Rem git clone --depth 1 https://github.com/247i/.net08-64
+	Rem git clone --depth 1 https://github.com/247i/.net09-64
+	Rem git clone --depth 1 https://github.com/247i/.net10-64
+	Rem git clone --depth 1 https://github.com/247i/.net11-64
+	git clone --depth 1 https://github.com/247i/7z-64
+	git clone --depth 1 https://github.com/247i/Everything-64
+	git clone --depth 1 https://github.com/247i/FileZilla-64
+	git clone --depth 1 https://github.com/247i/Git-64
+	git clone --depth 1 https://github.com/247i/NPP-64
+	git clone --depth 1 https://github.com/247i/WinMerge-64
+	git clone --depth 1 https://github.com/247i/Thonny-64
+	
+) else if /i "%ARCH%"=="ARM64" (
+    echo System is 64-bit ARM
+) else if /i "%ARCH%"=="x86" (
+    echo System is 32-bit x86
+	git clone --depth 1 https://github.com/247i/.net07-32
+	git clone --depth 1 https://github.com/247i/.net08-32
+	git clone --depth 1 https://github.com/247i/.net09-32
+	git clone --depth 1 https://github.com/247i/.net10-32
+	git clone --depth 1 https://github.com/247i/.net11-32
+	git clone --depth 1 https://github.com/247i/7z-32
+	git clone --depth 1 https://github.com/247i/Everything-32
+	git clone --depth 1 https://github.com/247i/FileZilla-32
+	git clone --depth 1 https://github.com/247i/Git-32
+	git clone --depth 1 https://github.com/247i/NPP-32
+	git clone --depth 1 https://github.com/247i/WinMerge-32
+	git clone --depth 1 https://github.com/247i/Thonny-32
+	
+) else (
+    echo Unknown architecture: %ARCH%
+)
+
+endlocal
+
+
 REM git clone --depth 1 https://github.com/247i/WinMerge-64.git சூழல்பட்டி/சாளரஒன்றிணை
 
 REM git clone --depth 1 https://github.com/247i/01.git துவக்கு/அகர
