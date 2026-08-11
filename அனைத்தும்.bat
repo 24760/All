@@ -4,13 +4,12 @@ Rem git clone --depth 1 https://github.com/247i/01 துவக்கு_அக�
 Rem git clone --depth 1 https://github.com/247i/2048 ஆட்டம்_2048
 Rem git clone --depth 1 https://github.com/247i/7zSDK சூழல்பட்டி_7ஃ-மெவபெ
 Rem git clone --depth 1 https://github.com/247i/7zetc சூழல்பட்டி_7ஃ-மேலும்
-Rem git clone --depth 1 https://github.com/247i/AIMP.git ஊடகம்_ஆஇஊஇ
-
-git clone --depth 1 https://github.com/247i/ASCII
-Rem git clone --depth 1 https://github.com/247i/AniFX.git படம்_அணிஉரு
-Rem git clone --depth 1 https://github.com/247i/AntRenamer.git கருவி_மறுபெயரிடுஅந்தோ
+Rem git clone --depth 1 https://github.com/247i/AIMPetc ஊடகம்_ஆஇஊஇ-மேலும்
+Rem git clone --depth 1 https://github.com/247i/AniFX படம்_அணிஉரு
+Rem git clone --depth 1 https://github.com/247i/AntRenamer கருவி_அந்தோமறுபெயரிடு
 Rem git clone --depth 1 https://github.com/247i/Apps.git பயன்பாடுகள்
-Rem git clone --depth 1 https://github.com/247i/AudaCity.git ஊடகம்_ஆடாசிட்டி
+Rem git clone --depth 1 https://github.com/247i/Apps
+Rem git clone --depth 1 https://github.com/247i/ASCII
 Rem git clone --depth 1 https://github.com/247i/Autoit3.git உரை_தானியங்கி3
 Rem git clone --depth 1 https://github.com/247i/Azhagi.git தட்டு_அழகி
 Rem git clone --depth 1 https://github.com/247i/Beeftext.git தட்டு_தசைஉரை
@@ -81,7 +80,6 @@ Rem git clone --depth 1 https://github.com/247i/Mp3Tag.git ஊடகம்_எ�
 Rem git clone --depth 1 https://github.com/247i/MuseScore.git ஊடகம்_இசைமதிப்பெண்
 Rem git clone --depth 1 https://github.com/247i/NSIS.git உரை_சுஎநிஅ  
 Rem git clone --depth 1 https://github.com/247i/Nim.git உரை_நிம்
-Rem git clone --depth 1 https://github.com/247i/NotePadPP.git உரை_குறிப்பேடுகூகூ
 Rem git clone --depth 1 https://github.com/247i/OBS-Studio.git ஊடகம்_திஒமெ-பட்டறை
 Rem git clone --depth 1 https://github.com/247i/Office.git உரை_அலுவலகம்
 Rem git clone --depth 1 https://github.com/247i/OmegaT.git மொழி_ஓமேகாடி
@@ -205,11 +203,12 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/.net11-64 உரை_புள்ளிப்பிணை11-64
 	Rem git clone --depth 1 https://github.com/247i/7z-64 சூழல்பட்டி_7ஃ-64
 	Rem git clone --depth 1 https://github.com/247i/AIMP-64 ஊடகம்_ஆஇஊஇ-64
-	
+	Rem git clone --depth 1 https://github.com/247i/AudaCity-64 ஊடகம்_ஆடாசிட்டி-64
+
 	Rem git clone --depth 1 https://github.com/247i/Everything-64 தட்டு_எல்லாம்-64
 	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
 	Rem git clone --depth 1 https://github.com/247i/Git-64 சூழல்பட்டி_அறிவிலி-64
-	git clone --depth 1 https://github.com/247i/NPP-64
+	Rem git clone --depth 1 https://github.com/247i/NPP-64 உரை_குகூகூ-64
 	git clone --depth 1 https://github.com/247i/WinMerge-64
 	Rem git clone --depth 1 https://github.com/247i/Thonny-64
 	
@@ -225,11 +224,12 @@ if /i "%ARCH%"=="AMD64" (
 	git clone --depth 1 https://github.com/247i/.net11-32 உரை_புள்ளிப்பிணை11-32
 	git clone --depth 1 https://github.com/247i/7z-32 சூழல்பட்டி_7ஃ-32
 	git clone --depth 1 https://github.com/247i/AIMP-32 ஊடகம்_ஆஇஊஇ-32
+	git clone --depth 1 https://github.com/247i/AudaCity-32 ஊடகம்_ஆடாசிட்டி-32
 	
 	git clone --depth 1 https://github.com/247i/Everything-32 தட்டு_எல்லாம்-32
 	git clone --depth 1 https://github.com/247i/FileZilla-32
 	git clone --depth 1 https://github.com/247i/Git-32 சூழல்பட்டி_அறிவிலி-32
-	git clone --depth 1 https://github.com/247i/NPP-32
+	git clone --depth 1 https://github.com/247i/NPP-32 உரை_குகூகூ-32
 	git clone --depth 1 https://github.com/247i/WinMerge-32
 	git clone --depth 1 https://github.com/247i/Thonny-32
 	
