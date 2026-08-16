@@ -113,7 +113,10 @@ Rem git clone --depth 1 https://github.com/247i/ReNamer.git கருவி_ம�
 Rem git clone --depth 1 https://github.com/247i/RocksDiamonds.git ஆட்டம்_பாறைகள்மவைரங்கள்
 Rem git clone --depth 1 https://github.com/247i/Ruby.git உரை_மாணிக்கம்
 Rem git clone --depth 1 https://github.com/247i/Rufus.git துவக்கு_உருப்பசு
-Rem git clone --depth 1 https://github.com/247i/SIT.git கருவி_அகக்கருவிகள்
+Rem git clone --depth 1 https://github.com/247i/SIT கருவி_அகக்கருவிகள்
+git clone --depth 1 https://github.com/247i/SIT-32
+git clone --depth 1 https://github.com/247i/SIT-64
+
 Rem git clone --depth 1 https://github.com/247i/SQLiteBrowser.git உரை_கவிமொழிஉலாவி
 Rem git clone --depth 1 https://github.com/247i/SQLiteMan.git உரை_கவிமொழிமனிதன்
 Rem git clone --depth 1 https://github.com/247i/ScreenPlays.git கருவி_திரைக்கதைகள்
@@ -211,6 +214,7 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
 	Rem git clone --depth 1 https://github.com/247i/Git-64 சூழல்பட்டி_அறிவிலி-64
 	Rem git clone --depth 1 https://github.com/247i/NPP-64 உரை_குகூகூ-64
+	Rem git clone --depth 1 https://github.com/247i/SIT-64 அகக்கருவிகள்-64
 	Rem git clone --depth 1 https://github.com/247i/WinMerge-64 உரை_சாளரஒன்றிணை-64
 	Rem git clone --depth 1 https://github.com/247i/Thonny-64 உரை_தோனி-64
 	
@@ -233,7 +237,7 @@ if /i "%ARCH%"=="AMD64" (
 	git clone --depth 1 https://github.com/247i/FileZilla-32
 	git clone --depth 1 https://github.com/247i/Git-32 சூழல்பட்டி_அறிவிலி-32
 	git clone --depth 1 https://github.com/247i/NPP-32 உரை_குகூகூ-32
-	
+	git clone --depth 1 https://github.com/247i/SIT-32 அகக்கருவிகள்-32
 	git clone --depth 1 https://github.com/247i/Thonny-32 உரை_தோனி-32
 	git clone --depth 1 https://github.com/247i/WinMerge-32  உரை_சாளரஒன்றிணை-32
 	
