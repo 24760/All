@@ -13,7 +13,6 @@ Rem git clone --depth 1 https://github.com/247i/ASCII
 Rem git clone --depth 1 https://github.com/247i/Autoit3.git உரை_தானியங்கி3
 Rem git clone --depth 1 https://github.com/247i/Azhagi.git தட்டு_அழகி
 Rem git clone --depth 1 https://github.com/247i/Beeftext.git தட்டு_தசைஉரை
-git clone --depth 1 https://github.com/247i/BGKural
 Rem git clone --depth 1 https://github.com/247i/BGKural பின்னணிகுறள்
 Rem git clone --depth 1 https://github.com/247i/BvSsh.git தட்டு_இஅபாஓடு
 Rem git clone --depth 1 https://github.com/247i/Calibre உரை_மின்னூல்
@@ -115,7 +114,6 @@ Rem git clone --depth 1 https://github.com/247i/ReNamer.git கருவி_ம�
 Rem git clone --depth 1 https://github.com/247i/RocksDiamonds.git ஆட்டம்_பாறைகள்மவைரங்கள்
 Rem git clone --depth 1 https://github.com/247i/Ruby.git உரை_மாணிக்கம்
 Rem git clone --depth 1 https://github.com/247i/Rufus.git துவக்கு_உருப்பசு
-Rem git clone --depth 1 https://github.com/247i/SIT கருவி_அகக்கருவிகள்
 
 Rem git clone --depth 1 https://github.com/247i/SQLiteBrowser.git உரை_கவிமொழிஉலாவி
 Rem git clone --depth 1 https://github.com/247i/SQLiteMan.git உரை_கவிமொழிமனிதன்
