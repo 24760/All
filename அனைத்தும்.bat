@@ -14,34 +14,34 @@ Rem git clone --depth 1 https://github.com/247i/Autoit3.git உரை_தான�
 Rem git clone --depth 1 https://github.com/247i/Azhagi.git தட்டு_அழகி
 Rem git clone --depth 1 https://github.com/247i/Beeftext.git தட்டு_தசைஉரை
 Rem git clone --depth 1 https://github.com/247i/BvSsh.git தட்டு_இஅபாஓடு
-Rem git clone --depth 1 https://github.com/247i/Calibre.git உரை_மின்னூல்
+Rem git clone --depth 1 https://github.com/247i/Calibre உரை_மின்னூல்
 Rem gh release download --repo "247i/Calibre" --pattern "*"
 
-Rem git clone --depth 1 https://github.com/247i/CamStudio.git ஊடகம்_படபட்டறை
-Rem git clone --depth 1 https://github.com/247i/Celestia.git விண்_விண்ணுலகம்
-Rem git clone --depth 1 https://github.com/247i/CherryTree.git உரை_செர்ரிமரம்
-Rem git clone --depth 1 https://github.com/247i/ChessBrutal.git ஆட்டம்_சதுரங்கம்கொடூரம்
-Rem git clone --depth 1 https://github.com/247i/ChessLucas.git ஆட்டம்_சதுரங்கம்லூகாசு
-Rem git clone --depth 1 https://github.com/247i/ChessLucasR.git ஆட்டம்_சதுரங்கம்-லூகாசு
-Rem git clone --depth 1 https://github.com/247i/ClamWin.git கருவி_மட்டிசாளரம்
-Rem git clone --depth 1 https://github.com/247i/CleanerC.git கருவி_துப்புரவாளர்சி
-Rem git clone --depth 1 https://github.com/247i/CleanerWise.git கருவி_துப்புரவாளர்அறிவு
-Rem git clone --depth 1 https://github.com/247i/CodeBlocks.git உரை_குறியீடுதொகுதிகள் 
-Rem git clone --depth 1 https://github.com/247i/ConvertAll.git கருவி_அனைத்தும்மாற்றி
-Rem git clone --depth 1 https://github.com/247i/CudaText.git உரை_குடாஉரை
-Rem git clone --depth 1 https://github.com/247i/DSynchronize.git தட்டு_டிஒத்திசை
-Rem git clone --depth 1 https://github.com/247i/DesktopTicker.git தட்டு_திரைப்பலகதுடிப்பு 
-Rem git clone --depth 1 https://github.com/247i/DevC.git உரை_வளர்சி
-Rem git clone --depth 1 https://github.com/247i/Dia.git படம்_சித்திரம்
-Rem git clone --depth 1 https://github.com/247i/Dicom.git தட்டு_அகராதிகாம்
-Rem git clone --depth 1 https://github.com/247i/DigitalMars.git உரை_எண்முறைசெவ்வாய்
-Rem git clone --depth 1 https://github.com/247i/Ditto.git தட்டு_மேற்படியே
-Rem git clone --depth 1 https://github.com/247i/DupFileFinder.git கருவி_நகல்கண்டுபிடி
-Rem git clone --depth 1 https://github.com/247i/Eclipse.git உரை_இடைமறைப்பு
-Rem git clone --depth 1 https://github.com/247i/Espanso.git தட்டு_உரைவிரிவாக்கி
+git clone --depth 1 https://github.com/247i/CamStudio ஊடகம்_படபட்டறை
+git clone --depth 1 https://github.com/247i/Celestia விண்_விண்ணுலகம்
+git clone --depth 1 https://github.com/247i/CherryTree உரை_செர்ரிமரம்
+Rem git clone --depth 1 https://github.com/247i/ChessBrutal ஆட்டம்_சதுரங்கம்கொடூரம்
+Rem git clone --depth 1 https://github.com/247i/ChessLucas ஆட்டம்_சதுரங்கம்லூகாசு
+Rem git clone --depth 1 https://github.com/247i/ChessLucasR ஆட்டம்_சதுரங்கம்-லூகாசு
+Rem git clone --depth 1 https://github.com/247i/ClamWin கருவி_மட்டிசாளரம்
+Rem git clone --depth 1 https://github.com/247i/CleanerC கருவி_துப்புரவாளர்சி
+Rem git clone --depth 1 https://github.com/247i/CleanerWise கருவி_துப்புரவாளர்அறிவு
+Rem git clone --depth 1 https://github.com/247i/CodeBlocks உரை_குறியீடுதொகுதிகள் 
+Rem git clone --depth 1 https://github.com/247i/ConvertAll கருவி_அனைத்தும்மாற்றி
+Rem git clone --depth 1 https://github.com/247i/CudaText உரை_குடாஉரை
+Rem git clone --depth 1 https://github.com/247i/DSynchronize தட்டு_டிஒத்திசை
+Rem git clone --depth 1 https://github.com/247i/DesktopTicker தட்டு_திரைப்பலகதுடிப்பு 
+Rem git clone --depth 1 https://github.com/247i/DevC உரை_வளர்சி
+Rem git clone --depth 1 https://github.com/247i/Dia படம்_சித்திரம்
+Rem git clone --depth 1 https://github.com/247i/Dicom தட்டு_அகராதிகாம்
+Rem git clone --depth 1 https://github.com/247i/DigitalMars உரை_எண்முறைசெவ்வாய்
+Rem git clone --depth 1 https://github.com/247i/Ditto தட்டு_மேற்படியே
+Rem git clone --depth 1 https://github.com/247i/DupFileFinder கருவி_நகல்கண்டுபிடி
+Rem git clone --depth 1 https://github.com/247i/Eclipse உரை_இடைமறைப்பு
+Rem git clone --depth 1 https://github.com/247i/Espanso தட்டு_உரைவிரிவாக்கி
 Rem git clone --depth 1 https://github.com/247i/EverythingEtc தட்டு_எல்லாம்மேலும் 
-Rem git clone --depth 1 https://github.com/247i/Executables.git இயக்கிகள்
-Rem git clone --depth 1 https://github.com/247i/Ezhil.git உரை_எழில்
+Rem git clone --depth 1 https://github.com/247i/Executables இயக்கிகள்
+Rem git clone --depth 1 https://github.com/247i/Ezhil உரை_எழில்
 Rem git clone --depth 1 https://github.com/247i/FastCopy.git சூழல்பட்டி_நகல்வேகம்
 Rem git clone --depth 1 https://github.com/247i/FeedRoller.git தட்டு_ஊட்டிஉருளை
 Rem git clone --depth 1 https://github.com/247i/FileZilla.git தட்டு_கோப்புசில்லா
