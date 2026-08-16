@@ -13,9 +13,10 @@ Rem git clone --depth 1 https://github.com/247i/ASCII
 Rem git clone --depth 1 https://github.com/247i/Autoit3.git உரை_தானியங்கி3
 Rem git clone --depth 1 https://github.com/247i/Azhagi.git தட்டு_அழகி
 Rem git clone --depth 1 https://github.com/247i/Beeftext.git தட்டு_தசைஉரை
-
 Rem git clone --depth 1 https://github.com/247i/BvSsh.git தட்டு_இஅபாஓடு
 Rem git clone --depth 1 https://github.com/247i/Calibre.git உரை_மின்னூல்
+git clone --depth 1 https://github.com/247i/Calibre.git உரை_மின்னூல்
+
 Rem git clone --depth 1 https://github.com/247i/CamStudio.git ஊடகம்_படபட்டறை
 Rem git clone --depth 1 https://github.com/247i/Celestia.git விண்_விண்ணுலகம்
 Rem git clone --depth 1 https://github.com/247i/CherryTree.git உரை_செர்ரிமரம்
@@ -210,8 +211,8 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
 	Rem git clone --depth 1 https://github.com/247i/Git-64 சூழல்பட்டி_அறிவிலி-64
 	Rem git clone --depth 1 https://github.com/247i/NPP-64 உரை_குகூகூ-64
-	git clone --depth 1 https://github.com/247i/WinMerge-64
-	Rem git clone --depth 1 https://github.com/247i/Thonny-64
+	Rem git clone --depth 1 https://github.com/247i/WinMerge-64 உரை_சாளரஒன்றிணை-64
+	Rem git clone --depth 1 https://github.com/247i/Thonny-64 உரை_தோனி-64
 	
 
 ) else if /i "%ARCH%"=="ARM64" (
@@ -231,8 +232,8 @@ if /i "%ARCH%"=="AMD64" (
 	git clone --depth 1 https://github.com/247i/FileZilla-32
 	git clone --depth 1 https://github.com/247i/Git-32 சூழல்பட்டி_அறிவிலி-32
 	git clone --depth 1 https://github.com/247i/NPP-32 உரை_குகூகூ-32
-	git clone --depth 1 https://github.com/247i/WinMerge-32
-	git clone --depth 1 https://github.com/247i/Thonny-32
+	git clone --depth 1 https://github.com/247i/WinMerge-32  உரை_சாளரஒன்றிணை-32
+	git clone --depth 1 https://github.com/247i/Thonny-32 உரை_தோனி-32
 	
 ) else (
     echo Unknown architecture: %ARCH%
