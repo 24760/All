@@ -15,7 +15,7 @@ Rem git clone --depth 1 https://github.com/247i/Azhagi.git தட்டு_அ�
 Rem git clone --depth 1 https://github.com/247i/Beeftext.git தட்டு_தசைஉரை
 Rem git clone --depth 1 https://github.com/247i/BvSsh.git தட்டு_இஅபாஓடு
 Rem git clone --depth 1 https://github.com/247i/Calibre.git உரை_மின்னூல்
-gh release download --repo "247i/Calibre" --pattern "*"
+Rem gh release download --repo "247i/Calibre" --pattern "*"
 
 Rem git clone --depth 1 https://github.com/247i/CamStudio.git ஊடகம்_படபட்டறை
 Rem git clone --depth 1 https://github.com/247i/Celestia.git விண்_விண்ணுலகம்
