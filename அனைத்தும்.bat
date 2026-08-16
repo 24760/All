@@ -16,10 +16,8 @@ Rem git clone --depth 1 https://github.com/247i/Beeftext.git தட்டு_த
 Rem git clone --depth 1 https://github.com/247i/BvSsh.git தட்டு_இஅபாஓடு
 Rem git clone --depth 1 https://github.com/247i/Calibre உரை_மின்னூல்
 Rem gh release download --repo "247i/Calibre" --pattern "*"
+Rem git clone --depth 1 https://github.com/247i/CamStudio ஊடகம்_படபட்டறை
 
-git clone --depth 1 https://github.com/247i/CamStudio ஊடகம்_படபட்டறை
-git clone --depth 1 https://github.com/247i/Celestia விண்_விண்ணுலகம்
-git clone --depth 1 https://github.com/247i/CherryTree உரை_செர்ரிமரம்
 Rem git clone --depth 1 https://github.com/247i/ChessBrutal ஆட்டம்_சதுரங்கம்கொடூரம்
 Rem git clone --depth 1 https://github.com/247i/ChessLucas ஆட்டம்_சதுரங்கம்லூகாசு
 Rem git clone --depth 1 https://github.com/247i/ChessLucasR ஆட்டம்_சதுரங்கம்-லூகாசு
@@ -206,6 +204,8 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/7z-64 சூழல்பட்டி_7ஃ-64
 	Rem git clone --depth 1 https://github.com/247i/AIMP-64 ஊடகம்_ஆஇஊஇ-64
 	Rem git clone --depth 1 https://github.com/247i/AudaCity-64 ஊடகம்_ஆடாசிட்டி-64
+	Rem git clone --depth 1 https://github.com/247i/Celestia-64 விண்ணுலகம்-64
+	Rem git clone --depth 1 https://github.com/247i/CherryTree-64 உரை_செர்ரிமரம்-64
 
 	Rem git clone --depth 1 https://github.com/247i/Everything-64 தட்டு_எல்லாம்-64
 	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
@@ -227,13 +227,15 @@ if /i "%ARCH%"=="AMD64" (
 	git clone --depth 1 https://github.com/247i/7z-32 சூழல்பட்டி_7ஃ-32
 	git clone --depth 1 https://github.com/247i/AIMP-32 ஊடகம்_ஆஇஊஇ-32
 	git clone --depth 1 https://github.com/247i/AudaCity-32 ஊடகம்_ஆடாசிட்டி-32
-	
+	git clone --depth 1 https://github.com/247i/Celestia-32 விண்ணுலகம்-32
+
 	git clone --depth 1 https://github.com/247i/Everything-32 தட்டு_எல்லாம்-32
 	git clone --depth 1 https://github.com/247i/FileZilla-32
 	git clone --depth 1 https://github.com/247i/Git-32 சூழல்பட்டி_அறிவிலி-32
 	git clone --depth 1 https://github.com/247i/NPP-32 உரை_குகூகூ-32
-	git clone --depth 1 https://github.com/247i/WinMerge-32  உரை_சாளரஒன்றிணை-32
+	
 	git clone --depth 1 https://github.com/247i/Thonny-32 உரை_தோனி-32
+	git clone --depth 1 https://github.com/247i/WinMerge-32  உரை_சாளரஒன்றிணை-32
 	
 ) else (
     echo Unknown architecture: %ARCH%
