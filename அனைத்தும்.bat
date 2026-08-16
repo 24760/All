@@ -114,7 +114,7 @@ Rem git clone --depth 1 https://github.com/247i/ReNamer.git கருவி_ம�
 Rem git clone --depth 1 https://github.com/247i/RocksDiamonds.git ஆட்டம்_பாறைகள்மவைரங்கள்
 Rem git clone --depth 1 https://github.com/247i/Ruby.git உரை_மாணிக்கம்
 Rem git clone --depth 1 https://github.com/247i/Rufus.git துவக்கு_உருப்பசு
-
+Rem git clone --depth 1 https://github.com/247i/RDCMan தொலைபணிமேடைஇணைப்புமேளலர்
 Rem git clone --depth 1 https://github.com/247i/SQLiteBrowser.git உரை_கவிமொழிஉலாவி
 Rem git clone --depth 1 https://github.com/247i/SQLiteMan.git உரை_கவிமொழிமனிதன்
 Rem git clone --depth 1 https://github.com/247i/ScreenPlays.git கருவி_திரைக்கதைகள்
