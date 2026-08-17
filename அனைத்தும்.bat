@@ -18,12 +18,14 @@ Rem git clone --depth 1 https://github.com/247i/BvSsh.git தட்டு_இஅ
 Rem git clone --depth 1 https://github.com/247i/Calibre உரை_மின்னூல்
 Rem gh release download --repo "247i/Calibre" --pattern "*"
 Rem git clone --depth 1 https://github.com/247i/CamStudio ஊடகம்_படபட்டறை
+Rem git clone --depth 1 https://github.com/247i/CleanerC கருவி_துப்புரவாளர்சி
 
 Rem git clone --depth 1 https://github.com/247i/ChessBrutal ஆட்டம்_சதுரங்கம்கொடூரம்
 Rem git clone --depth 1 https://github.com/247i/ChessLucas ஆட்டம்_சதுரங்கம்லூகாசு
 Rem git clone --depth 1 https://github.com/247i/ChessLucasR ஆட்டம்_சதுரங்கம்-லூகாசு
 Rem git clone --depth 1 https://github.com/247i/ClamWin கருவி_மட்டிசாளரம்
-Rem git clone --depth 1 https://github.com/247i/CleanerC கருவி_துப்புரவாளர்சி
+
+
 Rem git clone --depth 1 https://github.com/247i/CleanerWise கருவி_துப்புரவாளர்அறிவு
 Rem git clone --depth 1 https://github.com/247i/CodeBlocks உரை_குறியீடுதொகுதிகள் 
 Rem git clone --depth 1 https://github.com/247i/ConvertAll கருவி_அனைத்தும்மாற்றி
