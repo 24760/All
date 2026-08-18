@@ -8,7 +8,6 @@ Rem git clone --depth 1 https://github.com/247i/AIMPetc ஊடகம்_ஆஇ�
 Rem git clone --depth 1 https://github.com/247i/AniFX படம்_அணிஉரு
 Rem git clone --depth 1 https://github.com/247i/AntRenamer கருவி_அந்தோமறுபெயரிடு
 Rem git clone --depth 1 https://github.com/247i/Apps பயன்பாடுகள்
-Rem git clone --depth 1 https://github.com/247i/Apps
 Rem git clone --depth 1 https://github.com/247i/ASCII
 Rem git clone --depth 1 https://github.com/247i/Autoit3 உரை_தானியங்கி3
 Rem git clone --depth 1 https://github.com/247i/Azhagi தட்டு_அழகி
@@ -49,8 +48,8 @@ Rem git clone --depth 1 https://github.com/247i/FontForge எழுத்து_
 Rem git clone --depth 1 https://github.com/247i/FreeCAD கஉவ_இலவசம்
 Rem git clone --depth 1 https://github.com/247i/Fyre படம்_தோழர்களே
 Rem git clone --depth 1 https://github.com/247i/GIMP படம்_குபகைதி
-Rem git clone --depth 1 https://github.com/247i/Geany
-Rem git clone --depth 1 https://github.com/247i/Geany உரை_மேதை
+
+
 Rem git clone --depth 1 https://github.com/247i/GetText மொழி_உரைபெறு
 Rem git clone --depth 1 https://github.com/247i/Git.Ext சூழல்பட்டி_அறிவிலிநீட்டிப்புகள்
 Rem git clone --depth 1 https://github.com/247i/GitExt
@@ -211,6 +210,7 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/Everything-64 தட்டு_எல்லாம்-64
 	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
 	Rem git clone --depth 1 https://github.com/247i/Git-64 சூழல்பட்டி_அறிவிலி-64
+	Rem git clone --depth 1 https://github.com/247i/Geany-64 உரை_மேதை-64
 	Rem git clone --depth 1 https://github.com/247i/NPP-64 உரை_குகூகூ-64
 	Rem git clone --depth 1 https://github.com/247i/SIT-64 அகக்கருவிகள்-64
 	Rem git clone --depth 1 https://github.com/247i/Thonny-64 உரை_தோனி-64
@@ -234,6 +234,7 @@ if /i "%ARCH%"=="AMD64" (
 
 	git clone --depth 1 https://github.com/247i/Everything-32 தட்டு_எல்லாம்-32
 	git clone --depth 1 https://github.com/247i/FileZilla-32
+	git clone --depth 1 https://github.com/247i/Geany-32 உரை_மேதை-32
 	git clone --depth 1 https://github.com/247i/Git-32 சூழல்பட்டி_அறிவிலி-32
 	git clone --depth 1 https://github.com/247i/NPP-32 உரை_குகூகூ-32
 	git clone --depth 1 https://github.com/247i/SIT-32 அகக்கருவிகள்-32
