@@ -19,13 +19,11 @@ Rem gh release download --repo "247i/Calibre" --pattern "*"
 Rem git clone --depth 1 https://github.com/247i/CamStudio ஊடகம்_படபட்டறை
 Rem git clone --depth 1 https://github.com/247i/CleanerC கருவி_துப்புரவாளர்சி
 Rem git clone --depth 1 https://github.com/247i/CleanerWise கருவி_துப்புரவாளர்அறிவு
-
 Rem git clone --depth 1 https://github.com/247i/ChessBrutal ஆட்டம்_சதுரங்கம்கொடூரம்
 Rem git clone --depth 1 https://github.com/247i/ChessLucas ஆட்டம்_சதுரங்கம்லூகாசு
 Rem git clone --depth 1 https://github.com/247i/ChessLucasR ஆட்டம்_சதுரங்கம்-லூகாசு
 Rem git clone --depth 1 https://github.com/247i/ClamWin கருவி_மட்டிசாளரம்
 
-Rem git clone --depth 1 https://github.com/247i/CodeBlocks உரை_குறியீடுதொகுதிகள் 
 Rem git clone --depth 1 https://github.com/247i/ConvertAll கருவி_அனைத்தும்மாற்றி
 Rem git clone --depth 1 https://github.com/247i/CudaText உரை_குடாஉரை
 Rem git clone --depth 1 https://github.com/247i/DSynchronize தட்டு_டிஒத்திசை
@@ -48,7 +46,6 @@ Rem git clone --depth 1 https://github.com/247i/FontForge எழுத்து_
 Rem git clone --depth 1 https://github.com/247i/FreeCAD கஉவ_இலவசம்
 Rem git clone --depth 1 https://github.com/247i/Fyre படம்_தோழர்களே
 Rem git clone --depth 1 https://github.com/247i/GIMP படம்_குபகைதி
-
 
 Rem git clone --depth 1 https://github.com/247i/GetText மொழி_உரைபெறு
 Rem git clone --depth 1 https://github.com/247i/Git.Ext சூழல்பட்டி_அறிவிலிநீட்டிப்புகள்
@@ -207,6 +204,8 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/AudaCity-64 ஊடகம்_ஆடாசிட்டி-64
 	Rem git clone --depth 1 https://github.com/247i/Celestia-64 விண்ணுலகம்-64
 	Rem git clone --depth 1 https://github.com/247i/CherryTree-64 உரை_செர்ரிமரம்-64
+	Rem git clone --depth 1 https://github.com/247i/CodeBlocks-64 உரை_குறியீடுதொகுதிகள்-64
+
 	Rem git clone --depth 1 https://github.com/247i/Everything-64 தட்டு_எல்லாம்-64
 	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
 	Rem git clone --depth 1 https://github.com/247i/Git-64 சூழல்பட்டி_அறிவிலி-64
@@ -231,7 +230,8 @@ if /i "%ARCH%"=="AMD64" (
 	git clone --depth 1 https://github.com/247i/AIMP-32 ஊடகம்_ஆஇஊஇ-32
 	git clone --depth 1 https://github.com/247i/AudaCity-32 ஊடகம்_ஆடாசிட்டி-32
 	git clone --depth 1 https://github.com/247i/Celestia-32 விண்ணுலகம்-32
-
+	git clone --depth 1 https://github.com/247i/CodeBlocks-32 உரை_குறியீடுதொகுதிகள்-32
+	
 	git clone --depth 1 https://github.com/247i/Everything-32 தட்டு_எல்லாம்-32
 	git clone --depth 1 https://github.com/247i/FileZilla-32
 	git clone --depth 1 https://github.com/247i/Geany-32 உரை_மேதை-32
