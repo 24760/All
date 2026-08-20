@@ -9,6 +9,7 @@ Rem git clone --depth 1 https://github.com/247i/AniFX படம்_அணிஉ�
 Rem git clone --depth 1 https://github.com/247i/AntRenamer கருவி_அந்தோமறுபெயரிடு
 Rem git clone --depth 1 https://github.com/247i/Apps பயன்பாடுகள்
 Rem git clone --depth 1 https://github.com/247i/ASCII
+Rem git clone --depth 1 https://github.com/247i/AstroGrep விண்மீன்உலகவழக்கவெளிஅச்சு
 Rem git clone --depth 1 https://github.com/247i/Autoit3 உரை_தானியங்கி3
 Rem git clone --depth 1 https://github.com/247i/Azhagi தட்டு_அழகி
 Rem git clone --depth 1 https://github.com/247i/Beeftext தட்டு_தசைஉரை
@@ -23,16 +24,16 @@ Rem git clone --depth 1 https://github.com/247i/ChessBrutal ஆட்டம்_�
 Rem git clone --depth 1 https://github.com/247i/ChessLucas ஆட்டம்_சதுரங்கம்லூகாசு
 Rem git clone --depth 1 https://github.com/247i/ChessLucasR ஆட்டம்_சதுரங்கம்-லூகாசு
 Rem git clone --depth 1 https://github.com/247i/ClamWin கருவி_மட்டிசாளரம்
-
+Rem git clone --depth 1 https://github.com/247i/ConvertAll-py கருவி_அனைத்தும்மாற்றி-பை
 Rem git clone --depth 1 https://github.com/247i/ConvertAll கருவி_அனைத்தும்மாற்றி
-Rem git clone --depth 1 https://github.com/247i/CudaText உரை_குடாஉரை
-Rem git clone --depth 1 https://github.com/247i/DSynchronize தட்டு_டிஒத்திசை
-Rem git clone --depth 1 https://github.com/247i/DesktopTicker தட்டு_திரைப்பலகதுடிப்பு 
+Rem git clone --depth 1 https://github.com/247i/DesktopTicker தட்டு_திரைப்பலகதுடிப்பு
 Rem git clone --depth 1 https://github.com/247i/DevC உரை_வளர்சி
 Rem git clone --depth 1 https://github.com/247i/Dia படம்_சித்திரம்
 Rem git clone --depth 1 https://github.com/247i/Dicom தட்டு_அகராதிகாம்
+Rem git clone --depth 1 https://github.com/247i/DSynchronize தட்டு_டிஒத்திசை
 Rem git clone --depth 1 https://github.com/247i/DigitalMars உரை_எண்முறைசெவ்வாய்
-Rem git clone --depth 1 https://github.com/247i/Ditto தட்டு_மேற்படியே
+
+
 Rem git clone --depth 1 https://github.com/247i/DupFileFinder கருவி_நகல்கண்டுபிடி
 Rem git clone --depth 1 https://github.com/247i/Eclipse உரை_இடைமறைப்பு
 Rem git clone --depth 1 https://github.com/247i/Espanso தட்டு_உரைவிரிவாக்கி
@@ -205,7 +206,9 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/Celestia-64 விண்ணுலகம்-64
 	Rem git clone --depth 1 https://github.com/247i/CherryTree-64 உரை_செர்ரிமரம்-64
 	Rem git clone --depth 1 https://github.com/247i/CodeBlocks-64 உரை_குறியீடுதொகுதிகள்-64
-
+	Rem git clone --depth 1 https://github.com/247i/CppCheck-64 சிகூகூசரிபார்-64
+	Rem git clone --depth 1 https://github.com/247i/CudaText-64 உரை_குடாஉரை-64
+	Rem git clone --depth 1 https://github.com/247i/Ditto-64 தட்டு_மேற்படியே-64
 	Rem git clone --depth 1 https://github.com/247i/Everything-64 தட்டு_எல்லாம்-64
 	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
 	Rem git clone --depth 1 https://github.com/247i/Git-64 சூழல்பட்டி_அறிவிலி-64
@@ -231,6 +234,9 @@ if /i "%ARCH%"=="AMD64" (
 	git clone --depth 1 https://github.com/247i/AudaCity-32 ஊடகம்_ஆடாசிட்டி-32
 	git clone --depth 1 https://github.com/247i/Celestia-32 விண்ணுலகம்-32
 	git clone --depth 1 https://github.com/247i/CodeBlocks-32 உரை_குறியீடுதொகுதிகள்-32
+	git clone --depth 1 https://github.com/247i/CppCheck-32 சிகூகூசரிபார்-32
+	git clone --depth 1 https://github.com/247i/CudaText-32 உரை_குடாஉரை-32
+	git clone --depth 1 https://github.com/247i/Ditto-32 தட்டு_மேற்படியே-32
 	
 	git clone --depth 1 https://github.com/247i/Everything-32 தட்டு_எல்லாம்-32
 	git clone --depth 1 https://github.com/247i/FileZilla-32
