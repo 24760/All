@@ -1,5 +1,4 @@
 @echo off
-
 Rem git clone --depth 1 https://github.com/247i/01 துவக்கு_அகர
 Rem git clone --depth 1 https://github.com/247i/2048 ஆட்டம்_2048
 Rem git clone --depth 1 https://github.com/247i/7zSDK சூழல்பட்டி_7ஃ-மெவபெ
@@ -9,7 +8,7 @@ Rem git clone --depth 1 https://github.com/247i/AniFX படம்_அணிஉ�
 Rem git clone --depth 1 https://github.com/247i/AntRenamer கருவி_அந்தோமறுபெயரிடு
 Rem git clone --depth 1 https://github.com/247i/Apps பயன்பாடுகள்
 Rem git clone --depth 1 https://github.com/247i/ASCII
-Rem git clone --depth 1 https://github.com/247i/AstroGrep விண்மீன்உலகவழக்கவெளிஅச்சு
+Rem git clone --depth 1 https://github.com/247i/AstroGrep விண்உவவெஅ
 Rem git clone --depth 1 https://github.com/247i/Autoit3 உரை_தானியங்கி3
 Rem git clone --depth 1 https://github.com/247i/Azhagi தட்டு_அழகி
 Rem git clone --depth 1 https://github.com/247i/Beeftext தட்டு_தசைஉரை
@@ -32,8 +31,6 @@ Rem git clone --depth 1 https://github.com/247i/Dia படம்_சித்த
 Rem git clone --depth 1 https://github.com/247i/Dicom தட்டு_அகராதிகாம்
 Rem git clone --depth 1 https://github.com/247i/DSynchronize தட்டு_டிஒத்திசை
 Rem git clone --depth 1 https://github.com/247i/DigitalMars உரை_எண்முறைசெவ்வாய்
-
-
 Rem git clone --depth 1 https://github.com/247i/DupFileFinder கருவி_நகல்கண்டுபிடி
 Rem git clone --depth 1 https://github.com/247i/Eclipse உரை_இடைமறைப்பு
 Rem git clone --depth 1 https://github.com/247i/Espanso தட்டு_உரைவிரிவாக்கி
@@ -42,15 +39,12 @@ Rem git clone --depth 1 https://github.com/247i/Executables இயக்கி�
 Rem git clone --depth 1 https://github.com/247i/Ezhil உரை_எழில்
 Rem git clone --depth 1 https://github.com/247i/FastCopy சூழல்பட்டி_நகல்வேகம்
 Rem git clone --depth 1 https://github.com/247i/FeedRoller தட்டு_ஊட்டிஉருளை
-Rem git clone --depth 1 https://github.com/247i/FileZilla தட்டு_கோப்புசில்லா
 Rem git clone --depth 1 https://github.com/247i/FontForge எழுத்து_எழுத்துருவடிவாக்கி
 Rem git clone --depth 1 https://github.com/247i/FreeCAD கஉவ_இலவசம்
 Rem git clone --depth 1 https://github.com/247i/Fyre படம்_தோழர்களே
 Rem git clone --depth 1 https://github.com/247i/GIMP படம்_குபகைதி
-
 Rem git clone --depth 1 https://github.com/247i/GetText மொழி_உரைபெறு
 Rem git clone --depth 1 https://github.com/247i/Git.Ext சூழல்பட்டி_அறிவிலிநீட்டிப்புகள்
-Rem git clone --depth 1 https://github.com/247i/GitExt
 Rem git clone --depth 1 https://github.com/247i/GnuCash உரை_குனுபணம்
 Rem git clone --depth 1 https://github.com/247i/Golly ஆட்டம்_கோலி 
 Rem git clone --depth 1 https://github.com/247i/Guide உரை_வழிகாட்டி
@@ -162,7 +156,6 @@ Rem git clone --depth 1 https://github.com/247i/WinBoard ஆட்டம்_ச�
 Rem git clone --depth 1 https://github.com/247i/WinCDEmu கருவி_சாளரவட்டுபின்பற்று
 Rem git clone --depth 1 https://github.com/247i/WinDirStat கருவி_சாளரகேப்புறைவிவரம்
 Rem git clone --depth 1 https://github.com/247i/WinRegister கருவி_சாளரபதிவு 
-
 Rem git clone --depth 1 https://github.com/247i/WinSCP தட்டு_சாளரபாநகல்
 Rem git clone --depth 1 https://github.com/247i/Wise கருவி_அறிவு
 Rem git clone --depth 1 https://github.com/247i/Wizznic ஆட்டம்_விசுநிக்
