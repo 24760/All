@@ -5,7 +5,6 @@ Rem git clone --depth 1 https://github.com/247i/7zSDK சூழல்பட்�
 Rem git clone --depth 1 https://github.com/247i/7zetc சூழல்பட்டி_7ஃ-மேலும்
 Rem git clone --depth 1 https://github.com/247i/AIMPetc ஊடகம்_ஆஇஊஇ-மேலும்
 Rem git clone --depth 1 https://github.com/247i/AniFX படம்_அணிஉரு
-Rem git clone --depth 1 https://github.com/247i/AntRenamer கருவி_அந்தோமறுபெயரிடு
 Rem git clone --depth 1 https://github.com/247i/Apps பயன்பாடுகள்
 Rem git clone --depth 1 https://github.com/247i/ASCII
 Rem git clone --depth 1 https://github.com/247i/AstroGrep விண்உவவெஅ
@@ -116,7 +115,6 @@ Rem git clone --depth 1 https://github.com/247i/ShortcutsSearchAndReplace கர
 Rem git clone --depth 1 https://github.com/247i/Shotcut படம்_சுட்டுஒட்டு
 Rem git clone --depth 1 https://github.com/247i/Skype தட்டு_வழி
 Rem git clone --depth 1 https://github.com/247i/Skype7 தட்டு_வழி7
-Rem git clone --depth 1 https://github.com/247i/SourceGit
 Rem git clone --depth 1 https://github.com/247i/SourceTree கருவி_மூலமரம் 
 Rem git clone --depth 1 https://github.com/247i/SpeedCrunch கருவி_வேகநெருக்கடி
 Rem git clone --depth 1 https://github.com/247i/StartupSentinel கருவி_தொடக்ககாவலாளி
@@ -125,23 +123,19 @@ Rem git clone --depth 1 https://github.com/247i/StrokesPlus தட்டு_அ�
 Rem git clone --depth 1 https://github.com/247i/Sudoku ஆட்டம்_சுடோகு
 Rem git clone --depth 1 https://github.com/247i/SudokuSimple ஆட்டம்_சுடோகுஎளிய
 Rem git clone --depth 1 https://github.com/247i/SudokuUSB ஆட்டம்_சுடோகுஉவபே
-Rem git clone --depth 1 https://github.com/247i/SumatraPDF
 Rem git clone --depth 1 https://github.com/247i/SuperTux ஆட்டம்_சூப்பர்டுக்சு
 Rem git clone --depth 1 https://github.com/247i/T-3 ஆட்டம்_டே-3 
 Rem git clone --depth 1 https://github.com/247i/TACETr மொழி_தமிழாக்கம்
 Rem git clone --depth 1 https://github.com/247i/Telegram தட்டு_தந்தி
 Rem git clone --depth 1 https://github.com/247i/TeraCopy சூழல்பட்டி_நகல்பெரிய
 Rem git clone --depth 1 https://github.com/247i/Texter தட்டு_உரையாசிரியர்
-Rem git clone --depth 1 https://github.com/247i/Thonny உரை_தோனி
 Rem git clone --depth 1 https://github.com/247i/Tick5 ஆட்டம்_உண்ணி5
 Rem git clone --depth 1 https://github.com/247i/TileWorld ஆட்டம்_ஓடுஉலகம் 
-Rem git clone --depth 1 https://github.com/247i/Tipp10 எழுத்து_தட்டச்சுகுறிப்பு10
 Rem git clone --depth 1 https://github.com/247i/TranslatorWise மொழி_பெயர்ப்பாளர்அறிவு
 Rem git clone --depth 1 https://github.com/247i/Transolution மொழி_பெயர்த்தீர்வு
 Rem git clone --depth 1 https://github.com/247i/TreeSize கருவி_மரஅளவு
 Rem git clone --depth 1 https://github.com/247i/TuxPaint படம்_டுக்சுவண்ணப்பூச்சு
 Rem git clone --depth 1 https://github.com/247i/TwinDistress ஆட்டம்_இரட்டைஅழுத்தமின்மை
-Rem git clone --depth 1 https://github.com/247i/TypeFaster எழுத்து_தட்டச்சுவேகம்
 Rem git clone --depth 1 https://github.com/247i/TyperTask தட்டு_தட்டச்சுபணி 
 Rem git clone --depth 1 https://github.com/247i/UNetbootin துவக்கு_உநிகரதுவக்கம்
 Rem git clone --depth 1 https://github.com/247i/UWT கருவி_இறுதிசாளரமாற்றி
