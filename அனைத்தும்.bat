@@ -146,10 +146,10 @@ Rem git clone --depth 1 https://github.com/247i/VLC ஊடகம்_காஉப
 Rem git clone --depth 1 https://github.com/247i/VolleyBall ஆட்டம்_கைப்பந்து
 Rem git clone --depth 1 https://github.com/247i/WAtomic ஆட்டம்_சாஅனு 
 Rem git clone --depth 1 https://github.com/247i/WinBoard ஆட்டம்_சாளரஅட்டை
-Rem git clone --depth 1 https://github.com/247i/WinCDEmu கருவி_சாளரவட்டுபின்பற்று
-Rem git clone --depth 1 https://github.com/247i/WinDirStat கருவி_சாளரகேப்புறைவிவரம்
+Rem git clone --depth 1 https://github.com/247i/WinCDEmu சாளரவட்டுபின்பற்று
+Rem git clone --depth 1 https://github.com/247i/WinDirStat சாளரகேப்புறைவிவரம்
 Rem git clone --depth 1 https://github.com/247i/WinRegister கருவி_சாளரபதிவு 
-Rem git clone --depth 1 https://github.com/247i/WinSCP தட்டு_சாளரபாநகல்
+Rem git clone --depth 1 https://github.com/247i/WinSCP சாளரபாநகல்
 Rem git clone --depth 1 https://github.com/247i/Wise கருவி_அறிவு
 Rem git clone --depth 1 https://github.com/247i/Wizznic ஆட்டம்_விசுநிக்
 Rem git clone --depth 1 https://github.com/247i/WordWeb தட்டு_சொல்வலை
