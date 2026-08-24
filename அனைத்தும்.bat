@@ -106,7 +106,6 @@ Rem git clone --depth 1 https://github.com/247i/ReNamer கருவி_மற�
 Rem git clone --depth 1 https://github.com/247i/RocksDiamonds ஆட்டம்_பாறைகள்மவைரங்கள்
 Rem git clone --depth 1 https://github.com/247i/Ruby உரை_மாணிக்கம்
 Rem git clone --depth 1 https://github.com/247i/Rufus துவக்கு_உருப்பசு
-Rem git clone --depth 1 https://github.com/247i/RDCMan தொலைபணிமேடைஇணைப்புமேளலர்
 Rem git clone --depth 1 https://github.com/247i/SQLiteBrowser உரை_கவிமொழிஉலாவி
 Rem git clone --depth 1 https://github.com/247i/SQLiteMan உரை_கவிமொழிமனிதன்
 Rem git clone --depth 1 https://github.com/247i/ScreenPlays கருவி_திரைக்கதைகள்
@@ -208,7 +207,7 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/Geany-64 உரை_மேதை-64
 	Rem git clone --depth 1 https://github.com/247i/NPP-64 உரை_குகூகூ-64
 	Rem git clone --depth 1 https://github.com/247i/SIT-64 அகக்கருவிகள்-64
-	Rem git clone --depth 1 https://github.com/247i/Thonny-64 உரை_தோனி-64
+	Rem git clone --depth 1 https://github.com/247i/Thonny-64 தோனி-64
 	Rem git clone --depth 1 https://github.com/247i/WDC-64 அறிவுவட்டுதுடை-64
 	Rem git clone --depth 1 https://github.com/247i/WinMerge-64 உரை_சாளரஒன்றிணை-64
 	
