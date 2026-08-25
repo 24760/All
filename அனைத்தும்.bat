@@ -43,7 +43,6 @@ Rem git clone --depth 1 https://github.com/247i/FreeCAD கஉவ_இலவச�
 Rem git clone --depth 1 https://github.com/247i/Fyre படம்_தோழர்களே
 Rem git clone --depth 1 https://github.com/247i/GIMP படம்_குபகைதி
 Rem git clone --depth 1 https://github.com/247i/GetText மொழி_உரைபெறு
-Rem git clone --depth 1 https://github.com/247i/Git.Ext சூழல்பட்டி_அறிவிலிநீட்டிப்புகள்
 Rem git clone --depth 1 https://github.com/247i/GnuCash உரை_குனுபணம்
 Rem git clone --depth 1 https://github.com/247i/Golly ஆட்டம்_கோலி 
 Rem git clone --depth 1 https://github.com/247i/Guide உரை_வழிகாட்டி
@@ -188,12 +187,10 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/CodeBlocks-64 உரை_குறியீடுதொகுதிகள்-64
 	Rem git clone --depth 1 https://github.com/247i/CppCheck-64 சிகூகூசரிபார்-64
 	Rem git clone --depth 1 https://github.com/247i/CudaText-64 உரை_குடாஉரை-64
-	Rem git clone --depth 1 https://github.com/247i/Ditto-64 தட்டு_மேற்படியே-64
-	Rem git clone --depth 1 https://github.com/247i/Everything-64 தட்டு_எல்லாம்-64
+	Rem git clone --depth 1 https://github.com/247i/Ditto-64 மேற்படியே-64
+	Rem git clone --depth 1 https://github.com/247i/Everything-64 எல்லாம்-64
 	Rem git clone --depth 1 https://github.com/247i/FileZilla-64
-	Rem git clone --depth 1 https://github.com/247i/Git-64 சூழல்பட்டி_அறிவிலி-64
-	Rem git clone --depth 1 https://github.com/247i/Geany-64 உரை_மேதை-64
-	Rem git clone --depth 1 https://github.com/247i/NPP-64 உரை_குகூகூ-64
+	Rem git clone --depth 1 https://github.com/247i/Geany-64 மேதை-64
 	Rem git clone --depth 1 https://github.com/247i/SIT-64 அகக்கருவிகள்-64
 	Rem git clone --depth 1 https://github.com/247i/Thonny-64 தோனி-64
 	Rem git clone --depth 1 https://github.com/247i/WDC-64 அறிவுவட்டுதுடை-64
