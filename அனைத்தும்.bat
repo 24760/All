@@ -98,15 +98,14 @@ Rem git clone --depth 1 https://github.com/247i/PushOver ஆட்டம்_ம�
 Rem git clone --depth 1 https://github.com/247i/Puzzles ஆட்டம்_புதிர்கள் 
 Rem git clone --depth 1 https://github.com/247i/QMMP ஊடகம்_கிபஊஇ
 Rem git clone --depth 1 https://github.com/247i/Qalculate கருவி_கணிப்பான்
-Rem git clone --depth 1 https://github.com/247i/RDP கருவி_தொலை
-Rem git clone --depth 1 https://github.com/247i/RadioSure ஊடகம்_வானொலிஉறுதி
+Rem git clone --depth 1 https://github.com/247i/RDP தொலை
 Rem git clone --depth 1 https://github.com/247i/ReNamer கருவி_மறுபெயரிடு
 Rem git clone --depth 1 https://github.com/247i/RocksDiamonds ஆட்டம்_பாறைகள்மவைரங்கள்
 Rem git clone --depth 1 https://github.com/247i/Ruby உரை_மாணிக்கம்
 Rem git clone --depth 1 https://github.com/247i/Rufus துவக்கு_உருப்பசு
 Rem git clone --depth 1 https://github.com/247i/SQLiteBrowser உரை_கவிமொழிஉலாவி
 Rem git clone --depth 1 https://github.com/247i/SQLiteMan உரை_கவிமொழிமனிதன்
-Rem git clone --depth 1 https://github.com/247i/ScreenPlays கருவி_திரைக்கதைகள்
+Rem git clone --depth 1 https://github.com/247i/ScreenPlays திரைக்கதைகள்
 Rem git clone --depth 1 https://github.com/247i/ScreenToGifTranslator மொழி_திரைபிடிபடபெயர்ப்பாளர்
 Rem git clone --depth 1 https://github.com/247i/Scribus எழுத்தாளர்
 Rem git clone --depth 1 https://github.com/247i/ShortcutsSearchAndReplace குறுக்குவழிகள்தேடிமாற்று
@@ -140,7 +139,7 @@ Rem git clone --depth 1 https://github.com/247i/UWT கருவி_இறுத
 Rem git clone --depth 1 https://github.com/247i/UltraDefrag கருவி_இறுதிதுண்டுஒட்டு
 Rem git clone --depth 1 https://github.com/247i/Uninstall-Wise கருவி_நிரல்நீக்கிஅறிவு
 Rem git clone --depth 1 https://github.com/247i/Uninstall-ZSoft கருவி_நிரல்நீக்கிஃமென்
-Rem git clone --depth 1 https://github.com/247i/VLC ஊடகம்_காஉப
+Rem git clone --depth 1 https://github.com/247i/VLC காஉப
 Rem git clone --depth 1 https://github.com/247i/VolleyBall ஆட்டம்_கைப்பந்து
 Rem git clone --depth 1 https://github.com/247i/WAtomic ஆட்டம்_சாஅனு 
 Rem git clone --depth 1 https://github.com/247i/WinBoard ஆட்டம்_சாளரஅட்டை
