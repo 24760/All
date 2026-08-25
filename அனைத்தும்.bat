@@ -133,8 +133,8 @@ Rem git clone --depth 1 https://github.com/247i/Tick5 ஆட்டம்_உண�
 Rem git clone --depth 1 https://github.com/247i/TileWorld ஆட்டம்_ஓடுஉலகம் 
 Rem git clone --depth 1 https://github.com/247i/TranslatorWise மொழி_பெயர்ப்பாளர்அறிவு
 Rem git clone --depth 1 https://github.com/247i/Transolution மொழி_பெயர்த்தீர்வு
-Rem git clone --depth 1 https://github.com/247i/TreeSize கருவி_மரஅளவு
-Rem git clone --depth 1 https://github.com/247i/TuxPaint படம்_டுக்சுவண்ணப்பூச்சு
+Rem git clone --depth 1 https://github.com/247i/TreeSize மரஅளவு
+Rem git clone --depth 1 https://github.com/247i/TuxPaint டுக்சுவண்ணப்பூச்சு
 Rem git clone --depth 1 https://github.com/247i/TwinDistress ஆட்டம்_இரட்டைஅழுத்தமின்மை
 Rem git clone --depth 1 https://github.com/247i/TyperTask தட்டச்சுபணி 
 Rem git clone --depth 1 https://github.com/247i/UNetbootin துவக்கு_உநிகரதுவக்கம்
@@ -158,7 +158,7 @@ Rem git clone --depth 1 https://github.com/247i/Zaz ஆட்டம்_சாச
 Rem git clone --depth 1 https://github.com/247i/github உரை_முகப்பு
 Rem git clone --depth 1 https://github.com/247i/lokalize மொழி_உள்ளூராக்கு
 Rem git clone --depth 1 https://github.com/247i/node உரை_முனையம்
-Rem git clone --depth 1 https://github.com/247i/octave உரை_எண்கோணம்
+Rem git clone --depth 1 https://github.com/247i/Octave எண்கோணம்
 Rem git clone --depth 1 https://github.com/247i/perl உரை_முத்து
 Rem git clone --depth 1 https://github.com/247i/picard ஊடகம்_பைஅட்டை
 Rem git clone --depth 1 https://github.com/247i/progit2 மொழி_அறிவன்2
