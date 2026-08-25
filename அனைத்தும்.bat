@@ -109,9 +109,8 @@ Rem git clone --depth 1 https://github.com/247i/SQLiteBrowser உரை_கவ�
 Rem git clone --depth 1 https://github.com/247i/SQLiteMan உரை_கவிமொழிமனிதன்
 Rem git clone --depth 1 https://github.com/247i/ScreenPlays கருவி_திரைக்கதைகள்
 Rem git clone --depth 1 https://github.com/247i/ScreenToGifTranslator மொழி_திரைபிடிபடபெயர்ப்பாளர்
-Rem git clone --depth 1 https://github.com/247i/Scribus உரை_எழுத்தாளன்
-Rem git clone --depth 1 https://github.com/247i/SharpDevelop கூர்உருவாக்கி
-Rem git clone --depth 1 https://github.com/247i/ShortcutsSearchAndReplace கருவி_குறுக்குவழிகள்தேடிமாற்று
+Rem git clone --depth 1 https://github.com/247i/Scribus எழுத்தாளர்
+Rem git clone --depth 1 https://github.com/247i/ShortcutsSearchAndReplace குறுக்குவழிகள்தேடிமாற்று
 Rem git clone --depth 1 https://github.com/247i/Shotcut படம்_சுட்டுஒட்டு
 Rem git clone --depth 1 https://github.com/247i/Skype தட்டு_வழி
 Rem git clone --depth 1 https://github.com/247i/Skype7 தட்டு_வழி7
