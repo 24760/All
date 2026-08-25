@@ -1,10 +1,10 @@
 @echo off
-Rem git clone --depth 1 https://github.com/247i/01 துவக்கு_அகர
+Rem git clone --depth 1 https://github.com/247i/01 அகர
 Rem git clone --depth 1 https://github.com/247i/2048 ஆட்டம்_2048
 Rem git clone --depth 1 https://github.com/247i/7zSDK சூழல்பட்டி_7ஃ-மெவபெ
 Rem git clone --depth 1 https://github.com/247i/7zetc சூழல்பட்டி_7ஃ-மேலும்
-Rem git clone --depth 1 https://github.com/247i/AIMPetc ஊடகம்_ஆஇஊஇ-மேலும்
-Rem git clone --depth 1 https://github.com/247i/AniFX படம்_அணிஉரு
+Rem git clone --depth 1 https://github.com/247i/AIMPetc ஆஇஊஇ-மேலும்
+Rem git clone --depth 1 https://github.com/247i/AniFX அணிஉரு
 Rem git clone --depth 1 https://github.com/247i/Apps பயன்பாடுகள்
 Rem git clone --depth 1 https://github.com/247i/ASCII
 Rem git clone --depth 1 https://github.com/247i/AstroGrep விண்உவவெஅ
