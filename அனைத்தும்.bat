@@ -110,7 +110,7 @@ Rem git clone --depth 1 https://github.com/247i/SQLiteMan உரை_கவிம
 Rem git clone --depth 1 https://github.com/247i/ScreenPlays கருவி_திரைக்கதைகள்
 Rem git clone --depth 1 https://github.com/247i/ScreenToGifTranslator மொழி_திரைபிடிபடபெயர்ப்பாளர்
 Rem git clone --depth 1 https://github.com/247i/Scribus உரை_எழுத்தாளன்
-Rem git clone --depth 1 https://github.com/247i/SharpDevelop உரை_கூர்உருவாக்கி
+Rem git clone --depth 1 https://github.com/247i/SharpDevelop கூர்உருவாக்கி
 Rem git clone --depth 1 https://github.com/247i/ShortcutsSearchAndReplace கருவி_குறுக்குவழிகள்தேடிமாற்று
 Rem git clone --depth 1 https://github.com/247i/Shotcut படம்_சுட்டுஒட்டு
 Rem git clone --depth 1 https://github.com/247i/Skype தட்டு_வழி
@@ -136,7 +136,7 @@ Rem git clone --depth 1 https://github.com/247i/Transolution மொழி_பெ
 Rem git clone --depth 1 https://github.com/247i/TreeSize கருவி_மரஅளவு
 Rem git clone --depth 1 https://github.com/247i/TuxPaint படம்_டுக்சுவண்ணப்பூச்சு
 Rem git clone --depth 1 https://github.com/247i/TwinDistress ஆட்டம்_இரட்டைஅழுத்தமின்மை
-Rem git clone --depth 1 https://github.com/247i/TyperTask தட்டு_தட்டச்சுபணி 
+Rem git clone --depth 1 https://github.com/247i/TyperTask தட்டச்சுபணி 
 Rem git clone --depth 1 https://github.com/247i/UNetbootin துவக்கு_உநிகரதுவக்கம்
 Rem git clone --depth 1 https://github.com/247i/UWT கருவி_இறுதிசாளரமாற்றி
 Rem git clone --depth 1 https://github.com/247i/UltraDefrag கருவி_இறுதிதுண்டுஒட்டு
@@ -147,11 +147,11 @@ Rem git clone --depth 1 https://github.com/247i/VolleyBall ஆட்டம்_�
 Rem git clone --depth 1 https://github.com/247i/WAtomic ஆட்டம்_சாஅனு 
 Rem git clone --depth 1 https://github.com/247i/WinBoard ஆட்டம்_சாளரஅட்டை
 Rem git clone --depth 1 https://github.com/247i/WinCDEmu சாளரவட்டுபின்பற்று
-Rem git clone --depth 1 https://github.com/247i/WinRegister கருவி_சாளரபதிவு 
+Rem git clone --depth 1 https://github.com/247i/WinRegister சாளரபதிவு 
 Rem git clone --depth 1 https://github.com/247i/Wise கருவி_அறிவு
 Rem git clone --depth 1 https://github.com/247i/Wizznic ஆட்டம்_விசுநிக்
 Rem git clone --depth 1 https://github.com/247i/WordWeb தட்டு_சொல்வலை
-Rem git clone --depth 1 https://github.com/247i/Workrave தட்டு_பணிவெறி 
+Rem git clone --depth 1 https://github.com/247i/Workrave பணிவெறி 
 Rem git clone --depth 1 https://github.com/247i/XAMPP தட்டு_ஓஅமபிபி
 Rem git clone --depth 1 https://github.com/247i/Xye ஆட்டம்_ஒஓ
 Rem git clone --depth 1 https://github.com/247i/YUMI துவக்கு_உஉபநி
