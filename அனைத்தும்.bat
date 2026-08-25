@@ -25,7 +25,7 @@ Rem git clone --depth 1 https://github.com/247i/ClamWin கருவி_மட�
 Rem git clone --depth 1 https://github.com/247i/ConvertAll-py கருவி_அனைத்தும்மாற்றி-பை
 Rem git clone --depth 1 https://github.com/247i/ConvertAll கருவி_அனைத்தும்மாற்றி
 Rem git clone --depth 1 https://github.com/247i/DesktopTicker தட்டு_திரைப்பலகதுடிப்பு
-Rem git clone --depth 1 https://github.com/247i/DevC உரை_வளர்சி
+
 Rem git clone --depth 1 https://github.com/247i/Dia படம்_சித்திரம்
 Rem git clone --depth 1 https://github.com/247i/Dicom தட்டு_அகராதிகாம்
 Rem git clone --depth 1 https://github.com/247i/DSynchronize தட்டு_டிஒத்திசை
@@ -195,8 +195,7 @@ if /i "%ARCH%"=="AMD64" (
 	Rem git clone --depth 1 https://github.com/247i/Thonny-64 தோனி-64
 	Rem git clone --depth 1 https://github.com/247i/WDC-64 அறிவுவட்டுதுடை-64
 	Rem git clone --depth 1 https://github.com/247i/WinMerge-64 உரை_சாளரஒன்றிணை-64
-	
-
+	liset
 ) else if /i "%ARCH%"=="ARM64" (
     echo System is 64-bit ARM
 ) else if /i "%ARCH%"=="x86" (
