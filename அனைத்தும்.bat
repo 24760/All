@@ -150,8 +150,7 @@ Rem git clone --depth 1 https://github.com/247i/WinCDEmu சாளரவட்�
 Rem git clone --depth 1 https://github.com/247i/WinRegister சாளரபதிவு 
 Rem git clone --depth 1 https://github.com/247i/Wise கருவி_அறிவு
 Rem git clone --depth 1 https://github.com/247i/Wizznic ஆட்டம்_விசுநிக்
-Rem git clone --depth 1 https://github.com/247i/WordWeb தட்டு_சொல்வலை
-Rem git clone --depth 1 https://github.com/247i/Workrave பணிவெறி 
+Rem git clone --depth 1 https://github.com/247i/WordWeb சொல்வலை
 Rem git clone --depth 1 https://github.com/247i/XAMPP தட்டு_ஓஅமபிபி
 Rem git clone --depth 1 https://github.com/247i/Xye ஆட்டம்_ஒஓ
 Rem git clone --depth 1 https://github.com/247i/YUMI துவக்கு_உஉபநி
@@ -164,8 +163,6 @@ Rem git clone --depth 1 https://github.com/247i/perl உரை_முத்த�
 Rem git clone --depth 1 https://github.com/247i/picard ஊடகம்_பைஅட்டை
 Rem git clone --depth 1 https://github.com/247i/progit2 மொழி_அறிவன்2
 Rem git clone --depth 1 https://github.com/247i/python-docs-ta மொழி_பைத்தான்ஆவணங்கள்
-Rem git clone --depth 1 https://github.com/247i/sumatrapdf உரை_சுமத்ராஎஆவ
-Rem git clone --depth 1 https://github.com/247i/zint கருவி_ஃஎண்
 
 setlocal
 
